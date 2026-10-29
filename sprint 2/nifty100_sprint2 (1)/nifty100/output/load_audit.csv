@@ -1,0 +1,13 @@
+table,source_file,rows_in,rejected_ticker,rejected_year,excluded_ttm,excluded_out_of_universe,duplicates_removed,rows_out,rejected_total,critical_rejections,warnings_flagged,loaded_at,runtime_s
+companies,companies.xlsx,92,0,0,0,0,0,92,0,0,0,2026-10-26T05:36:49,0.104
+sectors,sectors.xlsx,92,0,0,0,0,0,92,0,0,0,2026-10-26T05:36:49,0.016
+profitandloss,profitandloss.xlsx,1276,0,0,92,99,12,1073,203,0,320,2026-10-26T05:36:49,0.168
+balancesheet,balancesheet.xlsx,1312,0,0,0,85,87,1140,172,0,2,2026-10-26T05:36:49,0.239
+cashflow,cashflow.xlsx,1187,0,0,0,89,35,1063,124,0,1,2026-10-26T05:36:49,0.158
+analysis,analysis.xlsx,20,0,0,0,4,0,16,4,0,0,2026-10-26T05:36:49,0.014
+documents,documents.xlsx,1585,0,0,0,128,1,1456,129,0,0,2026-10-26T05:36:49,0.1
+prosandcons,prosandcons.xlsx,16,0,0,0,2,0,14,2,0,0,2026-10-26T05:36:49,0.012
+stock_prices,stock_prices.xlsx,5520,0,0,0,0,0,5520,0,0,0,2026-10-26T05:36:49,0.352
+market_cap,market_cap.xlsx,552,0,0,0,0,0,552,0,0,0,2026-10-26T05:36:49,0.046
+financial_ratios_source,financial_ratios.xlsx,1184,0,0,0,24,119,1041,143,0,0,2026-10-26T05:36:50,0.339
+peer_groups,peer_groups.xlsx,56,0,0,0,0,0,56,0,0,0,2026-10-26T05:36:50,0.014
