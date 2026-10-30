@@ -1,0 +1,452 @@
+company_id,type,rule_id,evidence
+ABB,pro,P1,ROE>20% for 7 straight yrs (min 22.4%)
+ABB,pro,P2,FCF positive 6 yrs
+ABB,pro,P6,PAT CAGR 5y 21.7%
+ABB,pro,P7,ICR 141.8x
+ABB,pro,P9,EPS CAGR 5y 21.7%
+ABB,pro,P10,ROE 26.6%->32.5% over 3 yrs
+ABB,pro,P11,PAT CAGR 21.7% vs revenue CAGR 9.7%
+ABB,pro,P12,"assets 3840->5193, borrowings 153->83"
+ABB,con,C-REL,5-year revenue CAGR 9.7% vs sector median 11.0%
+ADANIENSOL,pro,P4,Revenue CAGR 5y 17.9%
+ADANIENSOL,pro,P5,OPM 34.4% in 2024-03
+ADANIENSOL,con,C1,D/E 2.93
+ADANIENSOL,con,C10,ROCE 7.9%
+ADANIENSOL,con,C11,net debt/EBITDA 6.4x
+ADANIENT,pro,P4,Revenue CAGR 5y 19.0%
+ADANIENT,pro,P6,PAT CAGR 5y 45.8%
+ADANIENT,pro,P9,EPS CAGR 5y 32.0%
+ADANIENT,pro,P11,PAT CAGR 45.8% vs revenue CAGR 19.0%
+ADANIENT,con,C10,ROCE 8.0%
+ADANIENT,con,C11,net debt/EBITDA 5.0x
+ADANIGREEN,pro,P4,Revenue CAGR 5y 35.0%
+ADANIGREEN,pro,P5,OPM 79.4% in 2024-03
+ADANIGREEN,con,C1,D/E 6.60
+ADANIGREEN,con,C10,ROCE 7.2%
+ADANIGREEN,con,C11,net debt/EBITDA 8.7x
+ADANIPORTS,pro,P4,Revenue CAGR 5y 19.6%
+ADANIPORTS,pro,P5,OPM 58.4% in 2024-03
+ADANIPORTS,con,C-REL,Return on capital employed 11.4% vs sector median 18.8%
+ADANIPOWER,pro,P1,ROE>20% for 3 straight yrs (min 26.6%)
+ADANIPOWER,pro,P2,FCF positive 10 yrs
+ADANIPOWER,pro,P4,Revenue CAGR 5y 16.1%
+ADANIPOWER,pro,P5,OPM 36.2% in 2024-03
+ADANIPOWER,pro,P10,ROE 9.7%->48.3% over 3 yrs
+ADANIPOWER,pro,P12,"assets 78806->92009, borrowings 52519->34616"
+ADANIPOWER,con,C-BEST,Operating profit margin 36.2% vs sector median 26.7%
+AMBUJACEM,pro,P7,ICR 28.3x
+AMBUJACEM,pro,P11,PAT CAGR 11.2% vs revenue CAGR 4.1%
+AMBUJACEM,con,C12,Revenue CAGR 5y 4.1%
+APOLLOHOSP,pro,P2,FCF positive 7 yrs
+APOLLOHOSP,pro,P6,PAT CAGR 5y 36.1%
+APOLLOHOSP,pro,P8,"div yield 3.22% (simulated), FCF 383"
+APOLLOHOSP,pro,P9,EPS CAGR 5y 30.0%
+APOLLOHOSP,pro,P11,PAT CAGR 36.1% vs revenue CAGR 14.7%
+APOLLOHOSP,con,C-REL,Net profit margin 4.9% vs sector median 18.0%
+ASIANPAINT,pro,P1,ROE>20% for 12 straight yrs (min 22.3%)
+ASIANPAINT,pro,P2,FCF positive 12 yrs
+ASIANPAINT,pro,P6,PAT CAGR 5y 20.3%
+ASIANPAINT,pro,P7,ICR 41.0x
+ASIANPAINT,pro,P9,EPS CAGR 5y 21.0%
+ASIANPAINT,pro,P11,PAT CAGR 20.3% vs revenue CAGR 13.0%
+ASIANPAINT,con,C8,D/E 0.09->0.13
+ATGL,pro,P4,Revenue CAGR 5y 21.1%
+ATGL,pro,P6,PAT CAGR 5y 23.9%
+ATGL,pro,P7,ICR 10.5x
+ATGL,pro,P9,EPS CAGR 5y 24.6%
+ATGL,pro,P11,PAT CAGR 23.9% vs revenue CAGR 21.1%
+ATGL,con,C-REL,Operating profit margin 24.7% vs sector median 26.7%
+AXISBANK,pro,P6,PAT CAGR 5y 39.7%
+AXISBANK,pro,P9,EPS CAGR 5y 35.1%
+AXISBANK,pro,P11,PAT CAGR 39.7% vs revenue CAGR 14.7%
+AXISBANK,con,C-REL,5-year revenue CAGR 14.7% vs sector median 17.4%
+BAJAJ-AUTO,pro,P1,ROE>20% for 3 straight yrs (min 20.6%)
+BAJAJ-AUTO,pro,P2,FCF positive 7 yrs
+BAJAJ-AUTO,pro,P7,ICR 174.4x
+BAJAJ-AUTO,pro,P8,"div yield 3.59% (simulated), FCF 6486"
+BAJAJ-AUTO,con,C-REL,5-year net profit CAGR 9.4% vs sector median 15.3%
+BAJAJFINSV,pro,P1,ROE>20% for 4 straight yrs (min 20.6%)
+BAJAJFINSV,pro,P4,Revenue CAGR 5y 21.0%
+BAJAJFINSV,pro,P6,PAT CAGR 5y 23.7%
+BAJAJFINSV,pro,P9,EPS CAGR 5y 20.6%
+BAJAJFINSV,pro,P11,PAT CAGR 23.7% vs revenue CAGR 21.0%
+BAJAJFINSV,con,C-REL,Net profit margin 14.1% vs sector median 19.6%
+BAJAJHLDNG,pro,P4,Revenue CAGR 5y 31.6%
+BAJAJHLDNG,pro,P9,EPS CAGR 5y 19.0%
+BAJAJHLDNG,con,C-REL,5-year net profit CAGR 19.3% vs sector median 23.4%
+BAJFINANCE,pro,P4,Revenue CAGR 5y 24.4%
+BAJFINANCE,pro,P6,PAT CAGR 5y 29.3%
+BAJFINANCE,pro,P9,EPS CAGR 5y 27.6%
+BAJFINANCE,pro,P11,PAT CAGR 29.3% vs revenue CAGR 24.4%
+BAJFINANCE,con,C-YOY,Return on equity 21.2%->18.8%
+BANKBARODA,pro,P4,Revenue CAGR 5y 17.5%
+BANKBARODA,pro,P6,PAT CAGR 5y 74.5%
+BANKBARODA,pro,P9,EPS CAGR 5y 55.2%
+BANKBARODA,pro,P10,ROE 2.0%->15.8% over 3 yrs
+BANKBARODA,pro,P11,PAT CAGR 74.5% vs revenue CAGR 17.5%
+BANKBARODA,con,C-REL,Net profit margin 15.9% vs sector median 19.6%
+BEL,pro,P1,ROE>20% for 12 straight yrs (min 3318.2%)
+BEL,pro,P7,ICR 476.8x
+BEL,pro,P11,PAT CAGR 16.1% vs revenue CAGR 10.8%
+BEL,pro,P12,"assets 152->161, borrowings 49->43"
+BEL,con,C-REL,5-year net profit CAGR 16.1% vs sector median 18.0%
+BHARTIARTL,pro,P5,OPM 52.2% in 2024-03
+BHARTIARTL,pro,P6,PAT CAGR 5y 38.4%
+BHARTIARTL,pro,P9,EPS CAGR 5y 67.0%
+BHARTIARTL,pro,P11,PAT CAGR 38.4% vs revenue CAGR 13.2%
+BHARTIARTL,con,C1,D/E 2.61
+BHEL,pro,P-BEST,Operating profit margin 3.0% vs sector median 17.4%
+BHEL,con,C10,ROCE 1.4%
+BHEL,con,C11,net debt/EBITDA 12.1x
+BHEL,con,C12,Revenue CAGR 5y -4.7%
+BOSCHLTD,pro,P2,FCF positive 12 yrs
+BOSCHLTD,pro,P7,ICR 71.8x
+BOSCHLTD,pro,P8,"div yield 4.23% (simulated), FCF 1536"
+BOSCHLTD,pro,P10,ROE 4.9%->20.6% over 3 yrs
+BOSCHLTD,pro,P11,PAT CAGR 9.3% vs revenue CAGR 6.7%
+BOSCHLTD,pro,P12,"assets 14774->17355, borrowings 54->39"
+BOSCHLTD,con,C-REL,5-year net profit CAGR 9.3% vs sector median 15.3%
+BPCL,pro,P6,PAT CAGR 5y 25.8%
+BPCL,pro,P7,ICR 11.4x
+BPCL,pro,P9,EPS CAGR 5y 28.1%
+BPCL,pro,P11,PAT CAGR 25.8% vs revenue CAGR 8.5%
+BPCL,con,C-REL,Operating profit margin 9.8% vs sector median 26.7%
+BRITANNIA,pro,P1,ROE>20% for 12 straight yrs (min 27.2%)
+BRITANNIA,pro,P7,ICR 20.6x
+BRITANNIA,pro,P11,PAT CAGR 13.1% vs revenue CAGR 8.7%
+BRITANNIA,pro,P12,"assets 8000->9072, borrowings 2122->2065"
+BRITANNIA,con,C-REL,Net profit margin 12.7% vs sector median 14.6%
+CANBK,pro,P4,Revenue CAGR 5y 18.2%
+CANBK,pro,P6,PAT CAGR 5y 85.8%
+CANBK,pro,P9,EPS CAGR 5y 53.4%
+CANBK,pro,P10,ROE 4.7%->16.7% over 3 yrs
+CANBK,pro,P11,PAT CAGR 85.8% vs revenue CAGR 18.2%
+CANBK,con,C-REL,Net profit margin 13.9% vs sector median 19.6%
+CHOLAFIN,pro,P4,Revenue CAGR 5y 21.9%
+CHOLAFIN,pro,P6,PAT CAGR 5y 23.4%
+CHOLAFIN,pro,P9,EPS CAGR 5y 22.3%
+CHOLAFIN,con,C-REL,Net profit margin 17.8% vs sector median 19.6%
+CIPLA,pro,P2,FCF positive 8 yrs
+CIPLA,pro,P5,OPM 75.6% in 2024-03
+CIPLA,pro,P6,PAT CAGR 5y 22.7%
+CIPLA,pro,P7,ICR 35.3x
+CIPLA,pro,P9,EPS CAGR 5y 21.8%
+CIPLA,pro,P11,PAT CAGR 22.7% vs revenue CAGR 9.5%
+CIPLA,pro,P12,"assets 24855->32533, borrowings 2014->559"
+CIPLA,con,C-REL,Net profit margin 16.1% vs sector median 18.0%
+COALINDIA,pro,P1,ROE>20% for 12 straight yrs (min 34.0%)
+COALINDIA,pro,P2,FCF positive 12 yrs
+COALINDIA,pro,P5,OPM 66.3% in 2024-03
+COALINDIA,pro,P7,ICR 11.2x
+COALINDIA,pro,P8,"div yield 4.38% (simulated), FCF 13617"
+COALINDIA,pro,P9,EPS CAGR 5y 16.9%
+COALINDIA,pro,P11,PAT CAGR 16.4% vs revenue CAGR 7.4%
+COALINDIA,con,C3,OPM 79.3%->66.3%
+DABUR,pro,P2,FCF positive 12 yrs
+DABUR,pro,P7,ICR 23.2x
+DABUR,pro,P8,"div yield 3.42% (simulated), FCF 1042"
+DABUR,con,C8,D/E 0.07->0.14
+DIVISLAB,pro,P5,OPM 28.2% in 2024-03
+DIVISLAB,pro,P7,ICR 636.2x
+DIVISLAB,pro,P12,"assets 10771->15460, borrowings 5->3"
+DIVISLAB,con,C-REL,5-year net profit CAGR 3.4% vs sector median 24.0%
+DLF,pro,P2,FCF positive 6 yrs
+DLF,pro,P5,OPM 33.0% in 2024-03
+DLF,pro,P10,ROE 3.1%->6.9% over 3 yrs
+DLF,pro,P12,"assets 53488->59069, borrowings 6886->4834"
+DLF,con,C10,ROCE 4.5%
+DLF,con,C12,Revenue CAGR 5y -5.1%
+DMART,pro,P4,Revenue CAGR 5y 20.5%
+DMART,pro,P6,PAT CAGR 5y 23.0%
+DMART,pro,P7,ICR 73.3x
+DMART,pro,P9,EPS CAGR 5y 22.7%
+DMART,pro,P11,PAT CAGR 23.0% vs revenue CAGR 20.5%
+DMART,con,C-REL,Net profit margin 5.0% vs sector median 9.7%
+DRREDDY,pro,P2,FCF positive 11 yrs
+DRREDDY,pro,P5,OPM 28.3% in 2024-03
+DRREDDY,pro,P6,PAT CAGR 5y 23.4%
+DRREDDY,pro,P7,ICR 51.7x
+DRREDDY,pro,P9,EPS CAGR 5y 23.8%
+DRREDDY,pro,P10,ROE 11.1%->19.7% over 3 yrs
+DRREDDY,pro,P11,PAT CAGR 23.4% vs revenue CAGR 12.6%
+DRREDDY,pro,P12,"assets 26588->38780, borrowings 3031->2002"
+DRREDDY,con,C-REL,5-year net profit CAGR 23.4% vs sector median 24.0%
+EICHERMOT,pro,P2,FCF positive 7 yrs
+EICHERMOT,pro,P5,OPM 26.2% in 2024-03
+EICHERMOT,pro,P7,ICR 114.7x
+EICHERMOT,pro,P8,"div yield 4.41% (simulated), FCF 890"
+EICHERMOT,pro,P10,ROE 11.8%->22.2% over 3 yrs
+EICHERMOT,con,C-REL,5-year net profit CAGR 12.7% vs sector median 15.3%
+GAIL,pro,P7,ICR 23.6x
+GAIL,con,C-REL,Operating profit margin 10.7% vs sector median 26.7%
+GODREJCP,pro,P-YOY,Operating profit margin 18.3%->21.0%
+GODREJCP,con,C4,net profit -561 in 2024-03
+GRASIM,pro,P6,PAT CAGR 5y 29.3%
+GRASIM,pro,P9,EPS CAGR 5y 27.7%
+GRASIM,pro,P11,PAT CAGR 29.3% vs revenue CAGR 11.2%
+GRASIM,con,C10,ROCE 9.8%
+HAL,pro,P1,ROE>20% for 9 straight yrs (min 1528.5%)
+HAL,pro,P5,OPM 32.1% in 2024-03
+HAL,pro,P6,PAT CAGR 5y 26.5%
+HAL,pro,P7,ICR 270.9x
+HAL,pro,P9,EPS CAGR 5y 26.6%
+HAL,pro,P11,PAT CAGR 26.5% vs revenue CAGR 8.7%
+HAL,con,C8,D/E 0.04->0.62
+HAVELLS,pro,P7,ICR 25.4x
+HAVELLS,pro,P12,"assets 8852->12433, borrowings 521->303"
+HAVELLS,con,C-REL,5-year net profit CAGR 10.0% vs sector median 18.0%
+HCLTECH,pro,P1,ROE>20% for 3 straight yrs (min 21.8%)
+HCLTECH,pro,P2,FCF positive 12 yrs
+HCLTECH,pro,P7,ICR 46.5x
+HCLTECH,pro,P10,ROE 18.6%->23.0% over 3 yrs
+HCLTECH,pro,P12,"assets 86047->99006, borrowings 6864->5758"
+HCLTECH,con,C3,OPM 26.6%->22.0%
+HDFCBANK,pro,P4,Revenue CAGR 5y 22.0%
+HDFCBANK,pro,P6,PAT CAGR 5y 23.9%
+HDFCBANK,pro,P9,EPS CAGR 5y 15.4%
+HDFCBANK,con,C-REL,Return on equity 14.3% vs sector median 15.7%
+HDFCLIFE,pro,P4,Revenue CAGR 5y 21.2%
+HDFCLIFE,con,C-REL,Net profit margin 1.6% vs sector median 19.6%
+HEROMOTOCO,pro,P2,FCF positive 11 yrs
+HEROMOTOCO,pro,P5,OPM 86.1% in 2024-03
+HEROMOTOCO,pro,P7,ICR 47.3x
+HEROMOTOCO,con,C12,Revenue CAGR 5y 2.2%
+HINDALCO,pro,P5,OPM 88.9% in 2024-03
+HINDALCO,pro,P7,ICR 126.5x
+HINDALCO,pro,P11,PAT CAGR 13.1% vs revenue CAGR 10.6%
+HINDALCO,pro,P12,"assets 188822->230723, borrowings 67206->56356"
+HINDALCO,con,C-REL,Net profit margin 4.7% vs sector median 11.8%
+HINDUNILVR,pro,P2,FCF positive 12 yrs
+HINDUNILVR,pro,P5,OPM 76.3% in 2024-03
+HINDUNILVR,pro,P7,ICR 57.8x
+HINDUNILVR,pro,P8,"div yield 4.32% (simulated), FCF 10145"
+HINDUNILVR,con,C-REL,5-year net profit CAGR 11.2% vs sector median 12.1%
+ICICIBANK,pro,P4,Revenue CAGR 5y 17.3%
+ICICIBANK,pro,P6,PAT CAGR 5y 51.9%
+ICICIBANK,pro,P9,EPS CAGR 5y 55.2%
+ICICIBANK,pro,P10,ROE 12.9%->18.0% over 3 yrs
+ICICIBANK,pro,P11,PAT CAGR 51.9% vs revenue CAGR 17.3%
+ICICIBANK,con,C-REL,5-year revenue CAGR 17.3% vs sector median 17.4%
+ICICIGI,pro,P-BEST,Return on equity 15.7% vs sector median 15.7%
+ICICIGI,con,C-REL,Net profit margin 9.4% vs sector median 19.6%
+ICICIPRULI,pro,P4,Revenue CAGR 5y 16.8%
+ICICIPRULI,con,C-REL,5-year net profit CAGR -5.7% vs sector median 23.4%
+INDIGO,pro,P2,FCF positive 6 yrs
+INDIGO,pro,P4,Revenue CAGR 5y 19.3%
+INDIGO,pro,P5,OPM 76.3% in 2024-03
+INDIGO,pro,P6,PAT CAGR 5y 120.7%
+INDIGO,pro,P7,ICR 22.6x
+INDIGO,pro,P8,"div yield 4.27% (simulated), FCF 9424"
+INDIGO,pro,P9,EPS CAGR 5y 121.2%
+INDIGO,pro,P10,ROE -1094.1%->892.6% over 3 yrs
+INDIGO,pro,P11,PAT CAGR 120.7% vs revenue CAGR 19.3%
+INDIGO,con,C3,OPM 100.0%->76.3%
+INDUSINDBK,pro,P4,Revenue CAGR 5y 15.5%
+INDUSINDBK,pro,P6,PAT CAGR 5y 22.1%
+INDUSINDBK,pro,P9,EPS CAGR 5y 15.9%
+INDUSINDBK,pro,P10,ROE 6.5%->14.3% over 3 yrs
+INDUSINDBK,pro,P11,PAT CAGR 22.1% vs revenue CAGR 15.5%
+INDUSINDBK,con,C-REL,5-year revenue CAGR 15.5% vs sector median 17.4%
+INFY,pro,P1,ROE>20% for 12 straight yrs (min 20.8%)
+INFY,pro,P2,FCF positive 7 yrs
+INFY,pro,P7,ICR 87.5x
+INFY,pro,P8,"div yield 4.10% (simulated), FCF 20117"
+INFY,con,C3,OPM 27.8%->23.7%
+IOC,pro,P6,PAT CAGR 5y 20.1%
+IOC,pro,P7,ICR 10.3x
+IOC,pro,P9,EPS CAGR 5y 20.1%
+IOC,pro,P11,PAT CAGR 20.1% vs revenue CAGR 8.0%
+IOC,con,C-REL,Operating profit margin 9.7% vs sector median 26.7%
+IRCTC,pro,P1,ROE>20% for 3 straight yrs (min 34.4%)
+IRCTC,pro,P4,Revenue CAGR 5y 18.0%
+IRCTC,pro,P5,OPM 34.3% in 2024-03
+IRCTC,pro,P6,PAT CAGR 5y 29.2%
+IRCTC,pro,P7,ICR 82.7x
+IRCTC,pro,P9,EPS CAGR 5y 28.5%
+IRCTC,pro,P11,PAT CAGR 29.2% vs revenue CAGR 18.0%
+IRCTC,pro,P12,"assets 3153->6091, borrowings 79->60"
+IRCTC,con,C-YOY,Return on equity 40.6%->34.4%
+IRFC,pro,P4,Revenue CAGR 5y 19.1%
+IRFC,pro,P6,PAT CAGR 5y 23.2%
+IRFC,pro,P9,EPS CAGR 5y 20.1%
+IRFC,pro,P11,PAT CAGR 23.2% vs revenue CAGR 19.1%
+IRFC,con,C-REL,Return on equity 13.0% vs sector median 15.7%
+ITC,pro,P1,ROE>20% for 12 straight yrs (min 21.7%)
+ITC,pro,P2,FCF positive 12 yrs
+ITC,pro,P5,OPM 37.0% in 2024-03
+ITC,pro,P7,ICR 363.0x
+ITC,pro,P8,"div yield 4.26% (simulated), FCF 18742"
+ITC,pro,P11,PAT CAGR 10.1% vs revenue CAGR 8.0%
+ITC,con,C-REL,5-year net profit CAGR 10.1% vs sector median 12.1%
+JINDALSTEL,pro,P12,"assets 77840->78676, borrowings 29910->16472"
+JINDALSTEL,con,C12,Revenue CAGR 5y 1.4%
+JIOFIN,pro,P-REL,Net profit margin 86.5% vs sector median 19.6%
+JIOFIN,con,C-REL,Return on equity 1.2% vs sector median 15.7%
+JSWENERGY,pro,P5,OPM 46.9% in 2024-03
+JSWENERGY,pro,P6,PAT CAGR 5y 20.3%
+JSWENERGY,pro,P9,EPS CAGR 5y 20.1%
+JSWENERGY,pro,P11,PAT CAGR 20.3% vs revenue CAGR 4.7%
+JSWENERGY,con,C10,ROCE 7.2%
+JSWENERGY,con,C11,net debt/EBITDA 4.6x
+JSWENERGY,con,C12,Revenue CAGR 5y 4.7%
+JSWSTEEL,pro,P4,Revenue CAGR 5y 15.6%
+JSWSTEEL,con,C-REL,5-year net profit CAGR 3.6% vs sector median 13.1%
+KOTAKBANK,pro,P6,PAT CAGR 5y 20.4%
+KOTAKBANK,pro,P9,EPS CAGR 5y 19.3%
+KOTAKBANK,pro,P10,ROE 11.8%->14.0% over 3 yrs
+KOTAKBANK,pro,P11,PAT CAGR 20.4% vs revenue CAGR 13.5%
+KOTAKBANK,con,C-REL,5-year revenue CAGR 13.5% vs sector median 17.4%
+LICI,pro,P1,ROE>20% for 6 straight yrs (min 36.4%)
+LICI,pro,P6,PAT CAGR 5y 73.2%
+LICI,pro,P11,PAT CAGR 73.2% vs revenue CAGR 8.2%
+LICI,con,C-REL,Net profit margin 4.8% vs sector median 19.6%
+LODHA,pro,P5,OPM 25.8% in 2024-03
+LODHA,pro,P12,"assets 39308->47198, borrowings 18193->7698"
+LODHA,con,C10,ROCE 9.8%
+LODHA,con,C12,Revenue CAGR 5y -2.8%
+LT,pro,P1,ROE>20% for 12 straight yrs (min 72.9%)
+LT,con,C3,OPM 17.3%->13.5%
+LTIM,pro,P1,ROE>20% for 12 straight yrs (min 22.9%)
+LTIM,pro,P2,FCF positive 12 yrs
+LTIM,pro,P4,Revenue CAGR 5y 30.3%
+LTIM,pro,P6,PAT CAGR 5y 24.8%
+LTIM,pro,P7,ICR 31.9x
+LTIM,pro,P8,"div yield 4.43% (simulated), FCF 1752"
+LTIM,con,C3,OPM 22.0%->18.0%
+M&M,pro,P9,EPS CAGR 5y 16.2%
+M&M,pro,P11,PAT CAGR 15.3% vs revenue CAGR 5.8%
+M&M,con,C-REL,5-year revenue CAGR 5.8% vs sector median 10.8%
+MARUTI,pro,P2,FCF positive 10 yrs
+MARUTI,pro,P7,ICR 117.9x
+MARUTI,pro,P12,"assets 71376->115304, borrowings 541->119"
+MARUTI,con,C-REL,Return on equity 15.8% vs sector median 24.2%
+MOTHERSON,pro,P2,FCF positive 7 yrs
+MOTHERSON,con,C-REL,Net profit margin 3.1% vs sector median 9.7%
+NAUKRI,pro,P4,Revenue CAGR 5y 17.1%
+NAUKRI,pro,P5,OPM 28.0% in 2024-03
+NAUKRI,pro,P7,ICR 29.0x
+NAUKRI,con,C10,ROCE 2.0%
+NESTLEIND,pro,P1,ROE>20% for 9 straight yrs (min 30.5%)
+NESTLEIND,pro,P2,FCF positive 12 yrs
+NESTLEIND,pro,P7,ICR 41.2x
+NESTLEIND,pro,P8,"div yield 3.85% (simulated), FCF 2938"
+NESTLEIND,pro,P9,EPS CAGR 5y 15.4%
+NESTLEIND,con,C-YOY,Return on equity 122.0%->117.8%
+NHPC,pro,P2,FCF positive 12 yrs
+NHPC,pro,P5,OPM 49.9% in 2024-03
+NHPC,pro,P7,ICR 11.2x
+NHPC,pro,P11,PAT CAGR 7.3% vs revenue CAGR 1.4%
+NHPC,con,C8,D/E 0.71->0.84
+NHPC,con,C10,ROCE 5.1%
+NHPC,con,C11,net debt/EBITDA 6.7x
+NHPC,con,C12,Revenue CAGR 5y 1.4%
+NTPC,pro,P5,OPM 28.8% in 2024-03
+NTPC,con,C10,ROCE 8.9%
+NTPC,con,C11,net debt/EBITDA 4.3x
+ONGC,pro,P2,FCF positive 6 yrs
+ONGC,pro,P7,ICR 11.4x
+ONGC,pro,P11,PAT CAGR 11.0% vs revenue CAGR 7.0%
+ONGC,con,C-REL,Operating profit margin 17.4% vs sector median 26.7%
+PFC,pro,P1,ROE>20% for 4 straight yrs (min 25.2%)
+PFC,pro,P11,PAT CAGR 15.9% vs revenue CAGR 11.1%
+PFC,con,C-REL,5-year revenue CAGR 11.1% vs sector median 17.4%
+PIDILITIND,pro,P7,ICR 54.3x
+PIDILITIND,con,C-BEST,Operating profit margin 21.9% vs sector median 21.4%
+PNB,pro,P1,ROE>20% for 4 straight yrs (min 30.4%)
+PNB,pro,P4,Revenue CAGR 5y 15.9%
+PNB,con,C-REL,Net profit margin 8.4% vs sector median 19.6%
+POWERGRID,pro,P2,FCF positive 6 yrs
+POWERGRID,pro,P5,OPM 86.9% in 2024-03
+POWERGRID,pro,P8,"div yield 3.09% (simulated), FCF 24176"
+POWERGRID,pro,P11,PAT CAGR 9.2% vs revenue CAGR 5.5%
+POWERGRID,con,C-REL,5-year revenue CAGR 5.5% vs sector median 10.7%
+RECLTD,pro,P9,EPS CAGR 5y 19.7%
+RECLTD,pro,P11,PAT CAGR 19.8% vs revenue CAGR 13.3%
+RECLTD,con,C-REL,5-year revenue CAGR 13.3% vs sector median 17.4%
+RELIANCE,pro,P8,"div yield 4.21% (simulated), FCF 45207"
+RELIANCE,pro,P11,PAT CAGR 14.7% vs revenue CAGR 9.6%
+RELIANCE,con,C10,ROCE 8.9%
+SBILIFE,pro,P4,Revenue CAGR 5y 24.2%
+SBILIFE,con,C-REL,Net profit margin 1.4% vs sector median 19.6%
+SBIN,pro,P6,PAT CAGR 5y 83.4%
+SBIN,pro,P9,EPS CAGR 5y 90.4%
+SBIN,pro,P11,PAT CAGR 83.4% vs revenue CAGR 11.6%
+SBIN,con,C-REL,5-year revenue CAGR 11.6% vs sector median 17.4%
+SHREECEM,pro,P7,ICR 19.8x
+SHREECEM,pro,P8,"div yield 3.20% (simulated), FCF 1929"
+SHREECEM,pro,P12,"assets 21513->27925, borrowings 2230->1656"
+SHREECEM,con,C-REL,Net profit margin 8.4% vs sector median 11.8%
+SHRIRAMFIN,pro,P4,Revenue CAGR 5y 18.6%
+SHRIRAMFIN,pro,P6,PAT CAGR 5y 23.5%
+SHRIRAMFIN,pro,P11,PAT CAGR 23.5% vs revenue CAGR 18.6%
+SHRIRAMFIN,con,C-REL,Return on equity 15.1% vs sector median 15.7%
+SIEMENS,pro,P7,ICR 67.2x
+SIEMENS,pro,P8,"div yield 3.69% (simulated), FCF 1168"
+SIEMENS,pro,P9,EPS CAGR 5y 19.6%
+SIEMENS,pro,P10,ROE 10.5%->17.7% over 3 yrs
+SIEMENS,pro,P11,PAT CAGR 19.9% vs revenue CAGR 11.2%
+SIEMENS,con,C-REL,Operating profit margin 14.0% vs sector median 17.4%
+SUNPHARMA,pro,P5,OPM 26.8% in 2024-03
+SUNPHARMA,pro,P6,PAT CAGR 5y 24.5%
+SUNPHARMA,pro,P7,ICR 58.3x
+SUNPHARMA,pro,P8,"div yield 3.88% (simulated), FCF 11372"
+SUNPHARMA,pro,P9,EPS CAGR 5y 29.5%
+SUNPHARMA,pro,P11,PAT CAGR 24.5% vs revenue CAGR 10.8%
+SUNPHARMA,pro,P12,"assets 67622->85308, borrowings 3869->3274"
+SUNPHARMA,con,C-REL,Return on capital employed 15.6% vs sector median 18.5%
+TATACONSUM,pro,P2,FCF positive 12 yrs
+TATACONSUM,pro,P4,Revenue CAGR 5y 16.0%
+TATACONSUM,pro,P6,PAT CAGR 5y 21.6%
+TATACONSUM,pro,P7,ICR 25.3x
+TATACONSUM,pro,P11,PAT CAGR 21.6% vs revenue CAGR 16.0%
+TATACONSUM,con,C10,ROCE 9.8%
+TATAMOTORS,pro,P8,"div yield 3.65% (simulated), FCF 45133"
+TATAMOTORS,pro,P12,"assets 341570->369521, borrowings 142131->107262"
+TATAMOTORS,con,C-REL,5-year revenue CAGR 7.7% vs sector median 10.8%
+TATAPOWER,pro,P4,Revenue CAGR 5y 15.5%
+TATAPOWER,con,C10,ROCE 8.1%
+TATAPOWER,con,C11,net debt/EBITDA 3.5x
+TATASTEEL,pro,P2,FCF positive 5 yrs
+TATASTEEL,pro,P12,"assets 243909->269312, borrowings 88501->87082"
+TATASTEEL,con,C4,net profit -4910 in 2024-03
+TATASTEEL,con,C5,revenue down 2 yrs (6.1%)
+TATASTEEL,con,C10,ROCE 6.9%
+TATASTEEL,con,C11,net debt/EBITDA 3.6x
+TCS,pro,P1,ROE>20% for 12 straight yrs (min 30.4%)
+TCS,pro,P2,FCF positive 12 yrs
+TCS,pro,P5,OPM 26.7% in 2024-03
+TCS,pro,P7,ICR 87.1x
+TCS,pro,P10,ROE 37.7%->50.9% over 3 yrs
+TCS,con,C-REL,5-year revenue CAGR 10.5% vs sector median 12.7%
+TECHM,pro,P2,FCF positive 12 yrs
+TECHM,pro,P7,ICR 13.9x
+TECHM,pro,P12,"assets 39602->43149, borrowings 2901->2537"
+TECHM,con,C7,payout 150%
+TECHM,con,C10,ROCE 9.2%
+TITAN,pro,P1,ROE>20% for 3 straight yrs (min 23.6%)
+TITAN,pro,P4,Revenue CAGR 5y 20.9%
+TITAN,pro,P6,PAT CAGR 5y 20.3%
+TITAN,pro,P8,"div yield 3.10% (simulated), FCF 1506"
+TITAN,pro,P9,EPS CAGR 5y 19.5%
+TITAN,pro,P10,ROE 13.0%->37.2% over 3 yrs
+TITAN,con,C8,D/E 0.75->1.65
+TORNTPHARM,pro,P2,FCF positive 6 yrs
+TORNTPHARM,pro,P5,OPM 31.4% in 2024-03
+TORNTPHARM,pro,P6,PAT CAGR 5y 30.6%
+TORNTPHARM,pro,P9,EPS CAGR 5y 30.4%
+TORNTPHARM,pro,P11,PAT CAGR 30.6% vs revenue CAGR 6.9%
+TORNTPHARM,pro,P12,"assets 14075->14505, borrowings 4874->4022"
+TORNTPHARM,con,C-REL,5-year revenue CAGR 6.9% vs sector median 10.2%
+TRENT,pro,P4,Revenue CAGR 5y 36.3%
+TRENT,pro,P6,PAT CAGR 5y 73.1%
+TRENT,pro,P8,"div yield 3.46% (simulated), FCF 841"
+TRENT,pro,P9,EPS CAGR 5y 69.5%
+TRENT,pro,P10,ROE -7.8%->36.3% over 3 yrs
+TRENT,pro,P11,PAT CAGR 73.1% vs revenue CAGR 36.3%
+TRENT,con,C-BEST,Operating profit margin 15.9% vs sector median 15.0%
+TVSMOTOR,pro,P9,EPS CAGR 5y 19.1%
+TVSMOTOR,pro,P10,ROE 15.9%->26.2% over 3 yrs
+TVSMOTOR,pro,P11,PAT CAGR 19.7% vs revenue CAGR 14.2%
+TVSMOTOR,con,C1,D/E 3.83
+TVSMOTOR,con,C2,FCF negative 3 yrs
+TVSMOTOR,con,C11,net debt/EBITDA 4.5x

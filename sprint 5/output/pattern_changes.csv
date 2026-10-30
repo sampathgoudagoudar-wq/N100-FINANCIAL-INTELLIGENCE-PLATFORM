@@ -1,0 +1,414 @@
+company_id,sector,from_year,to_year,from_pattern,to_pattern
+ADANIENSOL,Energy,2015-03,2016-03,Distress Signal,Reinvestor
+ADANIENSOL,Energy,2017-03,2018-03,Reinvestor,Aggressive Expander
+ADANIENSOL,Energy,2020-03,2021-03,Aggressive Expander,Reinvestor
+ADANIENSOL,Energy,2022-03,2023-03,Reinvestor,Aggressive Expander
+ADANIENSOL,Energy,2023-03,2024-03,Aggressive Expander,Reinvestor
+ADANIENT,Industrials,2013-03,2014-03,Aggressive Expander,Reinvestor
+ADANIENT,Industrials,2014-03,2015-03,Reinvestor,Aggressive Expander
+ADANIENT,Industrials,2015-03,2016-03,Aggressive Expander,Reinvestor
+ADANIENT,Industrials,2016-03,2017-03,Reinvestor,Aggressive Expander
+ADANIENT,Industrials,2018-03,2019-03,Aggressive Expander,Shareholder Returns
+ADANIENT,Industrials,2019-03,2020-03,Shareholder Returns,Reinvestor
+ADANIENT,Industrials,2020-03,2021-03,Reinvestor,Aggressive Expander
+ADANIENT,Industrials,2022-03,2023-03,Aggressive Expander,Reinvestor
+ADANIENT,Industrials,2023-03,2024-03,Reinvestor,Aggressive Expander
+ADANIGREEN,Energy,2022-03,2023-03,Aggressive Expander,Reinvestor
+ADANIGREEN,Energy,2023-03,2024-03,Reinvestor,Aggressive Expander
+ADANIPORTS,Industrials,2014-03,2015-03,Aggressive Expander,Reinvestor
+ADANIPORTS,Industrials,2015-03,2016-03,Reinvestor,Aggressive Expander
+ADANIPORTS,Industrials,2016-03,2017-03,Aggressive Expander,Reinvestor
+ADANIPORTS,Industrials,2018-03,2019-03,Reinvestor,Aggressive Expander
+ADANIPORTS,Industrials,2019-03,2020-03,Aggressive Expander,Reinvestor
+ADANIPORTS,Industrials,2020-03,2021-03,Reinvestor,Aggressive Expander
+ADANIPORTS,Industrials,2021-03,2022-03,Aggressive Expander,Reinvestor
+ADANIPOWER,Energy,2014-03,2015-03,Aggressive Expander,Reinvestor
+ADANIPOWER,Energy,2021-03,2022-03,Reinvestor,Shareholder Returns
+AMBUJACEM,Materials,2021-12,2023-03,Reinvestor,Aggressive Expander
+APOLLOHOSP,Healthcare,2013-03,2014-03,Aggressive Expander,Reinvestor
+APOLLOHOSP,Healthcare,2014-03,2015-03,Reinvestor,Aggressive Expander
+APOLLOHOSP,Healthcare,2017-03,2018-03,Aggressive Expander,Reinvestor
+AXISBANK,Financials,2014-03,2015-03,Aggressive Expander,Distress Signal
+AXISBANK,Financials,2015-03,2016-03,Distress Signal,Distress - Asset Liquidation
+AXISBANK,Financials,2016-03,2017-03,Distress - Asset Liquidation,Reinvestor
+AXISBANK,Financials,2017-03,2018-03,Reinvestor,Distress Signal
+AXISBANK,Financials,2018-03,2019-03,Distress Signal,Aggressive Expander
+AXISBANK,Financials,2023-03,2024-03,Aggressive Expander,Distress Signal
+BAJAJ-AUTO,Consumer Discretionary,2019-03,2020-03,Reinvestor,Shareholder Returns
+BAJAJ-AUTO,Consumer Discretionary,2020-03,2021-03,Shareholder Returns,Reinvestor
+BAJAJ-AUTO,Consumer Discretionary,2021-03,2022-03,Reinvestor,Shareholder Returns
+BAJAJ-AUTO,Consumer Discretionary,2023-03,2024-03,Shareholder Returns,Reinvestor
+BAJAJFINSV,Financials,2015-03,2016-03,Distress - Asset Liquidation,Distress Signal
+BAJAJFINSV,Financials,2016-03,2017-03,Distress Signal,Distress - Asset Liquidation
+BAJAJFINSV,Financials,2017-03,2018-03,Distress - Asset Liquidation,Distress Signal
+BAJAJFINSV,Financials,2020-03,2021-03,Distress Signal,Aggressive Expander
+BAJAJFINSV,Financials,2021-03,2022-03,Aggressive Expander,Distress - Asset Liquidation
+BAJAJFINSV,Financials,2022-03,2023-03,Distress - Asset Liquidation,Distress Signal
+BAJAJHLDNG,Financials,2015-03,2016-03,Reinvestor,Shareholder Returns
+BAJAJHLDNG,Financials,2016-03,2017-03,Shareholder Returns,Cash Drain
+BAJAJHLDNG,Financials,2017-03,2018-03,Cash Drain,Reinvestor
+BAJFINANCE,Financials,2017-03,2018-03,Distress Signal,Distress - Asset Liquidation
+BAJFINANCE,Financials,2018-03,2019-03,Distress - Asset Liquidation,Distress Signal
+BAJFINANCE,Financials,2021-03,2022-03,Distress Signal,Distress - Asset Liquidation
+BAJFINANCE,Financials,2022-03,2023-03,Distress - Asset Liquidation,Distress Signal
+BANKBARODA,Financials,2013-03,2014-03,Reinvestor,Aggressive Expander
+BANKBARODA,Financials,2014-03,2015-03,Aggressive Expander,Reinvestor
+BANKBARODA,Financials,2015-03,2016-03,Reinvestor,Cash Drain
+BANKBARODA,Financials,2016-03,2017-03,Cash Drain,Reinvestor
+BANKBARODA,Financials,2017-03,2018-03,Reinvestor,Distress Signal
+BANKBARODA,Financials,2019-03,2020-03,Distress Signal,Aggressive Expander
+BANKBARODA,Financials,2020-03,2021-03,Aggressive Expander,Cash Drain
+BANKBARODA,Financials,2021-03,2022-03,Cash Drain,Reinvestor
+BANKBARODA,Financials,2022-03,2023-03,Reinvestor,Cash Drain
+BANKBARODA,Financials,2023-03,2024-03,Cash Drain,Distress Signal
+BEL,Industrials,2014-03,2015-03,Cash Burn - Divestment Funded,Reinvestor
+BEL,Industrials,2016-03,2017-03,Reinvestor,Cash Burn - Divestment Funded
+BEL,Industrials,2017-03,2018-03,Cash Burn - Divestment Funded,Cash Drain
+BEL,Industrials,2018-03,2019-03,Cash Drain,Reinvestor
+BEL,Industrials,2022-03,2023-03,Reinvestor,Shareholder Returns
+BEL,Industrials,2023-03,2024-03,Shareholder Returns,Reinvestor
+BHARTIARTL,Communication Services,2013-03,2014-03,Reinvestor,Aggressive Expander
+BHARTIARTL,Communication Services,2014-03,2015-03,Aggressive Expander,Reinvestor
+BHARTIARTL,Communication Services,2017-03,2018-03,Reinvestor,Aggressive Expander
+BHARTIARTL,Communication Services,2020-03,2021-03,Aggressive Expander,Reinvestor
+BHEL,Industrials,2014-03,2015-03,Aggressive Expander,Shareholder Returns
+BHEL,Industrials,2016-03,2017-03,Shareholder Returns,Reinvestor
+BHEL,Industrials,2017-03,2018-03,Reinvestor,Shareholder Returns
+BHEL,Industrials,2018-03,2019-03,Shareholder Returns,Cash Burn - Divestment Funded
+BHEL,Industrials,2019-03,2020-03,Cash Burn - Divestment Funded,Distress - Asset Liquidation
+BHEL,Industrials,2020-03,2021-03,Distress - Asset Liquidation,Reinvestor
+BHEL,Industrials,2022-03,2023-03,Reinvestor,Distress - Asset Liquidation
+BOSCHLTD,Consumer Discretionary,2016-03,2017-03,Reinvestor,Shareholder Returns
+BOSCHLTD,Consumer Discretionary,2017-03,2018-03,Shareholder Returns,Reinvestor
+BOSCHLTD,Consumer Discretionary,2018-03,2019-03,Reinvestor,Shareholder Returns
+BOSCHLTD,Consumer Discretionary,2019-03,2020-03,Shareholder Returns,Reinvestor
+BOSCHLTD,Consumer Discretionary,2022-03,2023-03,Reinvestor,Shareholder Returns
+BPCL,Energy,2016-03,2017-03,Reinvestor,Aggressive Expander
+BPCL,Energy,2017-03,2018-03,Aggressive Expander,Reinvestor
+BPCL,Energy,2018-03,2019-03,Reinvestor,Aggressive Expander
+BPCL,Energy,2020-03,2021-03,Aggressive Expander,Reinvestor
+BRITANNIA,Consumer Staples,2013-03,2014-03,Shareholder Returns,Reinvestor
+BRITANNIA,Consumer Staples,2019-03,2020-03,Reinvestor,Aggressive Expander
+BRITANNIA,Consumer Staples,2020-03,2021-03,Aggressive Expander,Shareholder Returns
+BRITANNIA,Consumer Staples,2022-03,2023-03,Shareholder Returns,Reinvestor
+BRITANNIA,Consumer Staples,2023-03,2024-03,Reinvestor,Shareholder Returns
+CANBK,Financials,2016-03,2017-03,Reinvestor,Aggressive Expander
+CANBK,Financials,2017-03,2018-03,Aggressive Expander,Distress Signal
+CANBK,Financials,2018-03,2019-03,Distress Signal,Reinvestor
+CANBK,Financials,2019-03,2020-03,Reinvestor,Distress Signal
+CANBK,Financials,2020-03,2021-03,Distress Signal,Aggressive Expander
+CANBK,Financials,2022-03,2023-03,Aggressive Expander,Distress Signal
+CANBK,Financials,2023-03,2024-03,Distress Signal,Reinvestor
+CHOLAFIN,Financials,2013-03,2014-03,Distress - Asset Liquidation,Distress Signal
+CHOLAFIN,Financials,2021-03,2022-03,Distress Signal,Distress - Asset Liquidation
+CHOLAFIN,Financials,2022-03,2023-03,Distress - Asset Liquidation,Distress Signal
+CIPLA,Healthcare,2013-03,2014-03,Aggressive Expander,Reinvestor
+CIPLA,Healthcare,2014-03,2015-03,Reinvestor,Aggressive Expander
+CIPLA,Healthcare,2016-03,2017-03,Aggressive Expander,Reinvestor
+CIPLA,Healthcare,2019-03,2020-03,Reinvestor,Shareholder Returns
+CIPLA,Healthcare,2020-03,2021-03,Shareholder Returns,Reinvestor
+COALINDIA,Materials,2013-03,2014-03,Reinvestor,Shareholder Returns
+COALINDIA,Materials,2017-03,2018-03,Shareholder Returns,Reinvestor
+COALINDIA,Materials,2019-03,2020-03,Reinvestor,Shareholder Returns
+COALINDIA,Materials,2021-03,2022-03,Shareholder Returns,Reinvestor
+DABUR,Consumer Staples,2018-03,2019-03,Reinvestor,Shareholder Returns
+DABUR,Consumer Staples,2019-03,2020-03,Shareholder Returns,Reinvestor
+DIVISLAB,Healthcare,2016-03,2017-03,Reinvestor,Aggressive Expander
+DIVISLAB,Healthcare,2017-03,2018-03,Aggressive Expander,Reinvestor
+DIVISLAB,Healthcare,2020-03,2021-03,Reinvestor,Shareholder Returns
+DIVISLAB,Healthcare,2021-03,2022-03,Shareholder Returns,Reinvestor
+DLF,Real Estate,2015-03,2016-03,Shareholder Returns,Reinvestor
+DLF,Real Estate,2016-03,2017-03,Reinvestor,Distress - Asset Liquidation
+DLF,Real Estate,2017-03,2018-03,Distress - Asset Liquidation,Reinvestor
+DLF,Real Estate,2018-03,2019-03,Reinvestor,Cash Accumulator
+DLF,Real Estate,2019-03,2020-03,Cash Accumulator,Shareholder Returns
+DLF,Real Estate,2022-03,2023-03,Shareholder Returns,Reinvestor
+DLF,Real Estate,2023-03,2024-03,Reinvestor,Aggressive Expander
+DMART,Consumer Discretionary,2017-03,2018-03,Aggressive Expander,Shareholder Returns
+DMART,Consumer Discretionary,2018-03,2019-03,Shareholder Returns,Aggressive Expander
+DMART,Consumer Discretionary,2020-03,2021-03,Aggressive Expander,Reinvestor
+EICHERMOT,Consumer Discretionary,2016-03,2017-03,Reinvestor,Aggressive Expander
+EICHERMOT,Consumer Discretionary,2017-03,2018-03,Aggressive Expander,Reinvestor
+GAIL,Energy,2013-03,2014-03,Aggressive Expander,Reinvestor
+GAIL,Energy,2019-03,2020-03,Reinvestor,Aggressive Expander
+GAIL,Energy,2020-03,2021-03,Aggressive Expander,Reinvestor
+GAIL,Energy,2022-03,2023-03,Reinvestor,Aggressive Expander
+GAIL,Energy,2023-03,2024-03,Aggressive Expander,Reinvestor
+GODREJCP,Consumer Staples,2013-03,2014-03,Aggressive Expander,Reinvestor
+GODREJCP,Consumer Staples,2016-03,2017-03,Reinvestor,Aggressive Expander
+GODREJCP,Consumer Staples,2017-03,2018-03,Aggressive Expander,Reinvestor
+GODREJCP,Consumer Staples,2018-03,2019-03,Reinvestor,Shareholder Returns
+GODREJCP,Consumer Staples,2019-03,2020-03,Shareholder Returns,Reinvestor
+GODREJCP,Consumer Staples,2023-03,2024-03,Reinvestor,Aggressive Expander
+GRASIM,Industrials,2013-03,2014-03,Aggressive Expander,Reinvestor
+GRASIM,Industrials,2017-03,2018-03,Reinvestor,Distress - Asset Liquidation
+GRASIM,Industrials,2018-03,2019-03,Distress - Asset Liquidation,Distress Signal
+GRASIM,Industrials,2019-03,2020-03,Distress Signal,Reinvestor
+GRASIM,Industrials,2022-03,2023-03,Reinvestor,Distress Signal
+HAL,Industrials,2018-03,2019-03,Cash Burn - Divestment Funded,Distress - Asset Liquidation
+HAL,Industrials,2019-03,2020-03,Distress - Asset Liquidation,Aggressive Expander
+HAL,Industrials,2020-03,2021-03,Aggressive Expander,Reinvestor
+HAVELLS,Industrials,2018-03,2019-03,Reinvestor,Shareholder Returns
+HAVELLS,Industrials,2019-03,2020-03,Shareholder Returns,Reinvestor
+HAVELLS,Industrials,2020-03,2021-03,Reinvestor,Aggressive Expander
+HAVELLS,Industrials,2021-03,2022-03,Aggressive Expander,Reinvestor
+HAVELLS,Industrials,2022-03,2023-03,Reinvestor,Shareholder Returns
+HAVELLS,Industrials,2023-03,2024-03,Shareholder Returns,Reinvestor
+HCLTECH,Information Technology,2021-03,2022-03,Reinvestor,Shareholder Returns
+HCLTECH,Information Technology,2022-03,2023-03,Shareholder Returns,Reinvestor
+HDFCBANK,Financials,2013-03,2014-03,Distress Signal,Aggressive Expander
+HDFCBANK,Financials,2014-03,2015-03,Aggressive Expander,Distress Signal
+HDFCBANK,Financials,2016-03,2017-03,Distress Signal,Reinvestor
+HDFCBANK,Financials,2017-03,2018-03,Reinvestor,Aggressive Expander
+HDFCBANK,Financials,2018-03,2019-03,Aggressive Expander,Distress Signal
+HDFCBANK,Financials,2020-03,2021-03,Distress Signal,Reinvestor
+HDFCBANK,Financials,2021-03,2022-03,Reinvestor,Distress Signal
+HDFCBANK,Financials,2022-03,2023-03,Distress Signal,Aggressive Expander
+HDFCBANK,Financials,2023-03,2024-03,Aggressive Expander,Shareholder Returns
+HDFCLIFE,Financials,2019-03,2020-03,Reinvestor,Aggressive Expander
+HDFCLIFE,Financials,2021-03,2022-03,Aggressive Expander,Reinvestor
+HDFCLIFE,Financials,2022-03,2023-03,Reinvestor,Aggressive Expander
+HDFCLIFE,Financials,2023-03,2024-03,Aggressive Expander,Reinvestor
+HEROMOTOCO,Consumer Discretionary,2014-03,2015-03,Reinvestor,Shareholder Returns
+HEROMOTOCO,Consumer Discretionary,2015-03,2016-03,Shareholder Returns,Reinvestor
+HEROMOTOCO,Consumer Discretionary,2018-03,2019-03,Reinvestor,Shareholder Returns
+HEROMOTOCO,Consumer Discretionary,2019-03,2020-03,Shareholder Returns,Reinvestor
+HINDALCO,Materials,2014-03,2015-03,Aggressive Expander,Reinvestor
+HINDALCO,Materials,2017-03,2018-03,Reinvestor,Shareholder Returns
+HINDALCO,Materials,2018-03,2019-03,Shareholder Returns,Reinvestor
+HINDALCO,Materials,2019-03,2020-03,Reinvestor,Aggressive Expander
+HINDALCO,Materials,2020-03,2021-03,Aggressive Expander,Reinvestor
+HINDUNILVR,Consumer Staples,2013-03,2014-03,Shareholder Returns,Reinvestor
+HINDUNILVR,Consumer Staples,2014-03,2015-03,Reinvestor,Shareholder Returns
+HINDUNILVR,Consumer Staples,2015-03,2016-03,Shareholder Returns,Reinvestor
+HINDUNILVR,Consumer Staples,2019-03,2020-03,Reinvestor,Shareholder Returns
+HINDUNILVR,Consumer Staples,2020-03,2021-03,Shareholder Returns,Reinvestor
+ICICIBANK,Financials,2014-03,2015-03,Aggressive Expander,Distress Signal
+ICICIBANK,Financials,2015-03,2016-03,Distress Signal,Aggressive Expander
+ICICIBANK,Financials,2016-03,2017-03,Aggressive Expander,Reinvestor
+ICICIBANK,Financials,2017-03,2018-03,Reinvestor,Aggressive Expander
+ICICIBANK,Financials,2018-03,2019-03,Aggressive Expander,Reinvestor
+ICICIBANK,Financials,2019-03,2020-03,Reinvestor,Aggressive Expander
+ICICIBANK,Financials,2020-03,2021-03,Aggressive Expander,Reinvestor
+ICICIBANK,Financials,2021-03,2022-03,Reinvestor,Aggressive Expander
+ICICIBANK,Financials,2022-03,2023-03,Aggressive Expander,Distress Signal
+ICICIBANK,Financials,2023-03,2024-03,Distress Signal,Aggressive Expander
+ICICIGI,Financials,2014-03,2015-03,Aggressive Expander,Cash Burn - Divestment Funded
+ICICIGI,Financials,2015-03,2016-03,Cash Burn - Divestment Funded,Reinvestor
+ICICIGI,Financials,2016-03,2017-03,Reinvestor,Aggressive Expander
+ICICIGI,Financials,2017-03,2018-03,Aggressive Expander,Reinvestor
+ICICIGI,Financials,2021-03,2022-03,Reinvestor,Shareholder Returns
+ICICIGI,Financials,2022-03,2023-03,Shareholder Returns,Reinvestor
+ICICIPRULI,Financials,2014-03,2015-03,Cash Burn - Divestment Funded,Reinvestor
+ICICIPRULI,Financials,2015-03,2016-03,Reinvestor,Shareholder Returns
+ICICIPRULI,Financials,2016-03,2017-03,Shareholder Returns,Reinvestor
+ICICIPRULI,Financials,2020-03,2021-03,Reinvestor,Aggressive Expander
+ICICIPRULI,Financials,2021-03,2022-03,Aggressive Expander,Reinvestor
+ICICIPRULI,Financials,2023-03,2024-03,Reinvestor,Cash Burn - Divestment Funded
+INDIGO,Consumer Discretionary,2014-03,2015-03,Aggressive Expander,Reinvestor
+INDIGO,Consumer Discretionary,2017-03,2018-03,Reinvestor,Aggressive Expander
+INDIGO,Consumer Discretionary,2018-03,2019-03,Aggressive Expander,Reinvestor
+INDIGO,Consumer Discretionary,2020-03,2021-03,Reinvestor,Cash Burn - Divestment Funded
+INDIGO,Consumer Discretionary,2021-03,2022-03,Cash Burn - Divestment Funded,Shareholder Returns
+INDIGO,Consumer Discretionary,2022-03,2023-03,Shareholder Returns,Reinvestor
+INDUSINDBK,Financials,2016-03,2017-03,Distress Signal,Reinvestor
+INDUSINDBK,Financials,2017-03,2018-03,Reinvestor,Distress Signal
+INDUSINDBK,Financials,2019-03,2020-03,Distress Signal,Distress - Asset Liquidation
+INDUSINDBK,Financials,2020-03,2021-03,Distress - Asset Liquidation,Reinvestor
+INDUSINDBK,Financials,2022-03,2023-03,Reinvestor,Distress Signal
+INDUSINDBK,Financials,2023-03,2024-03,Distress Signal,Cash Drain
+INFY,Information Technology,2014-03,2015-03,Reinvestor,Shareholder Returns
+INFY,Information Technology,2015-03,2016-03,Shareholder Returns,Reinvestor
+INFY,Information Technology,2017-03,2018-03,Reinvestor,Shareholder Returns
+INFY,Information Technology,2018-03,2019-03,Shareholder Returns,Reinvestor
+IOC,Energy,2013-03,2014-03,Aggressive Expander,Reinvestor
+IOC,Energy,2018-03,2019-03,Reinvestor,Aggressive Expander
+IOC,Energy,2020-03,2021-03,Aggressive Expander,Reinvestor
+IRCTC,Consumer Discretionary,2015-03,2016-03,Reinvestor,Shareholder Returns
+IRCTC,Consumer Discretionary,2018-03,2019-03,Shareholder Returns,Reinvestor
+IRCTC,Consumer Discretionary,2019-03,2020-03,Reinvestor,Shareholder Returns
+IRCTC,Consumer Discretionary,2020-03,2021-03,Shareholder Returns,Reinvestor
+IRFC,Financials,2021-03,2022-03,Distress - Asset Liquidation,Distress Signal
+IRFC,Financials,2022-03,2023-03,Distress Signal,Distress - Asset Liquidation
+IRFC,Financials,2023-03,2024-03,Distress - Asset Liquidation,Reinvestor
+ITC,Consumer Staples,2020-03,2021-03,Reinvestor,Shareholder Returns
+ITC,Consumer Staples,2021-03,2022-03,Shareholder Returns,Reinvestor
+ITC,Consumer Staples,2023-03,2024-03,Reinvestor,Shareholder Returns
+JINDALSTEL,Materials,2015-03,2016-03,Aggressive Expander,Reinvestor
+JINDALSTEL,Materials,2023-03,2024-03,Reinvestor,Aggressive Expander
+JIOFIN,Financials,2023-03,2024-03,Reinvestor,Cash Burn - Divestment Funded
+JSWENERGY,Energy,2019-03,2020-03,Reinvestor,Shareholder Returns
+JSWENERGY,Energy,2020-03,2021-03,Shareholder Returns,Reinvestor
+JSWENERGY,Energy,2022-03,2023-03,Reinvestor,Aggressive Expander
+JSWSTEEL,Materials,2013-03,2014-03,Reinvestor,Aggressive Expander
+JSWSTEEL,Materials,2014-03,2015-03,Aggressive Expander,Reinvestor
+JSWSTEEL,Materials,2018-03,2019-03,Reinvestor,Aggressive Expander
+JSWSTEEL,Materials,2020-03,2021-03,Aggressive Expander,Reinvestor
+KOTAKBANK,Financials,2013-03,2014-03,Aggressive Expander,Reinvestor
+KOTAKBANK,Financials,2014-03,2015-03,Reinvestor,Aggressive Expander
+KOTAKBANK,Financials,2017-03,2018-03,Aggressive Expander,Distress Signal
+KOTAKBANK,Financials,2018-03,2019-03,Distress Signal,Aggressive Expander
+KOTAKBANK,Financials,2019-03,2020-03,Aggressive Expander,Reinvestor
+KOTAKBANK,Financials,2021-03,2022-03,Reinvestor,Aggressive Expander
+KOTAKBANK,Financials,2022-03,2023-03,Aggressive Expander,Distress Signal
+KOTAKBANK,Financials,2023-03,2024-03,Distress Signal,Aggressive Expander
+LICI,Financials,2019-03,2020-03,Shareholder Returns,Reinvestor
+LICI,Financials,2020-03,2021-03,Reinvestor,Shareholder Returns
+LICI,Financials,2021-03,2022-03,Shareholder Returns,Distress - Asset Liquidation
+LICI,Financials,2022-03,2023-03,Distress - Asset Liquidation,Reinvestor
+LODHA,Real Estate,2016-03,2017-03,Aggressive Expander,Reinvestor
+LODHA,Real Estate,2017-03,2018-03,Reinvestor,Aggressive Expander
+LODHA,Real Estate,2018-03,2019-03,Aggressive Expander,Distress Signal
+LODHA,Real Estate,2019-03,2020-03,Distress Signal,Shareholder Returns
+LODHA,Real Estate,2023-03,2024-03,Shareholder Returns,Aggressive Expander
+LT,Industrials,2016-03,2017-03,Distress Signal,Aggressive Expander
+LT,Industrials,2017-03,2018-03,Aggressive Expander,Distress - Asset Liquidation
+LT,Industrials,2018-03,2019-03,Distress - Asset Liquidation,Distress Signal
+LT,Industrials,2019-03,2020-03,Distress Signal,Aggressive Expander
+LT,Industrials,2020-03,2021-03,Aggressive Expander,Reinvestor
+LT,Industrials,2023-03,2024-03,Reinvestor,Shareholder Returns
+LTIM,Information Technology,2013-03,2014-03,Reinvestor,Shareholder Returns
+LTIM,Information Technology,2014-03,2015-03,Shareholder Returns,Reinvestor
+M&M,Consumer Discretionary,2014-03,2015-03,Distress Signal,Aggressive Expander
+M&M,Consumer Discretionary,2018-03,2019-03,Aggressive Expander,Distress Signal
+M&M,Consumer Discretionary,2020-03,2021-03,Distress Signal,Aggressive Expander
+M&M,Consumer Discretionary,2021-03,2022-03,Aggressive Expander,Reinvestor
+M&M,Consumer Discretionary,2022-03,2023-03,Reinvestor,Distress Signal
+MOTHERSON,Consumer Discretionary,2014-03,2015-03,Reinvestor,Aggressive Expander
+MOTHERSON,Consumer Discretionary,2015-03,2016-03,Aggressive Expander,Reinvestor
+MOTHERSON,Consumer Discretionary,2016-03,2017-03,Reinvestor,Aggressive Expander
+MOTHERSON,Consumer Discretionary,2017-03,2018-03,Aggressive Expander,Reinvestor
+MOTHERSON,Consumer Discretionary,2023-03,2024-03,Reinvestor,Aggressive Expander
+NAUKRI,Communication Services,2013-03,2014-03,Reinvestor,Aggressive Expander
+NAUKRI,Communication Services,2015-03,2016-03,Aggressive Expander,Reinvestor
+NAUKRI,Communication Services,2019-03,2020-03,Reinvestor,Shareholder Returns
+NAUKRI,Communication Services,2020-03,2021-03,Shareholder Returns,Aggressive Expander
+NESTLEIND,Consumer Staples,2018-12,2019-12,Reinvestor,Shareholder Returns
+NESTLEIND,Consumer Staples,2019-12,2020-12,Shareholder Returns,Reinvestor
+NHPC,Energy,2019-03,2020-03,Reinvestor,Aggressive Expander
+NHPC,Energy,2020-03,2021-03,Aggressive Expander,Reinvestor
+NTPC,Energy,2013-03,2014-03,Aggressive Expander,Reinvestor
+NTPC,Energy,2016-03,2017-03,Reinvestor,Aggressive Expander
+NTPC,Energy,2020-03,2021-03,Aggressive Expander,Reinvestor
+ONGC,Energy,2013-03,2014-03,Reinvestor,Aggressive Expander
+ONGC,Energy,2014-03,2015-03,Aggressive Expander,Reinvestor
+ONGC,Energy,2017-03,2018-03,Reinvestor,Aggressive Expander
+ONGC,Energy,2018-03,2019-03,Aggressive Expander,Reinvestor
+PFC,Financials,2014-03,2015-03,Distress - Asset Liquidation,Distress Signal
+PFC,Financials,2016-03,2017-03,Distress Signal,Aggressive Expander
+PFC,Financials,2017-03,2018-03,Aggressive Expander,Distress - Asset Liquidation
+PFC,Financials,2018-03,2019-03,Distress - Asset Liquidation,Distress Signal
+PFC,Financials,2020-03,2021-03,Distress Signal,Distress - Asset Liquidation
+PFC,Financials,2021-03,2022-03,Distress - Asset Liquidation,Reinvestor
+PFC,Financials,2022-03,2023-03,Reinvestor,Distress Signal
+PIDILITIND,Materials,2016-03,2017-03,Reinvestor,Aggressive Expander
+PIDILITIND,Materials,2017-03,2018-03,Aggressive Expander,Shareholder Returns
+PIDILITIND,Materials,2018-03,2019-03,Shareholder Returns,Reinvestor
+PIDILITIND,Materials,2019-03,2020-03,Reinvestor,Shareholder Returns
+PIDILITIND,Materials,2020-03,2021-03,Shareholder Returns,Reinvestor
+PNB,Financials,2013-03,2014-03,Cash Drain,Aggressive Expander
+PNB,Financials,2016-03,2017-03,Aggressive Expander,Shareholder Returns
+PNB,Financials,2017-03,2018-03,Shareholder Returns,Distress - Asset Liquidation
+PNB,Financials,2018-03,2019-03,Distress - Asset Liquidation,Distress Signal
+PNB,Financials,2020-03,2021-03,Distress Signal,Aggressive Expander
+PNB,Financials,2023-03,2024-03,Aggressive Expander,Distress Signal
+POWERGRID,Energy,2018-03,2019-03,Aggressive Expander,Reinvestor
+POWERGRID,Energy,2021-03,2022-03,Reinvestor,Shareholder Returns
+POWERGRID,Energy,2022-03,2023-03,Shareholder Returns,Reinvestor
+RECLTD,Financials,2015-03,2016-03,Distress - Asset Liquidation,Distress Signal
+RECLTD,Financials,2016-03,2017-03,Distress Signal,Reinvestor
+RECLTD,Financials,2017-03,2018-03,Reinvestor,Distress - Asset Liquidation
+RECLTD,Financials,2021-03,2022-03,Distress - Asset Liquidation,Distress Signal
+RELIANCE,Energy,2015-03,2016-03,Aggressive Expander,Reinvestor
+RELIANCE,Energy,2016-03,2017-03,Reinvestor,Aggressive Expander
+RELIANCE,Energy,2017-03,2018-03,Aggressive Expander,Reinvestor
+RELIANCE,Energy,2018-03,2019-03,Reinvestor,Aggressive Expander
+RELIANCE,Energy,2019-03,2020-03,Aggressive Expander,Reinvestor
+RELIANCE,Energy,2020-03,2021-03,Reinvestor,Aggressive Expander
+RELIANCE,Energy,2023-03,2024-03,Aggressive Expander,Reinvestor
+SBILIFE,Financials,2020-03,2021-03,Reinvestor,Aggressive Expander
+SBILIFE,Financials,2021-03,2022-03,Aggressive Expander,Reinvestor
+SBIN,Financials,2013-03,2014-03,Reinvestor,Aggressive Expander
+SBIN,Financials,2014-03,2015-03,Aggressive Expander,Reinvestor
+SBIN,Financials,2015-03,2016-03,Reinvestor,Aggressive Expander
+SBIN,Financials,2016-03,2017-03,Aggressive Expander,Reinvestor
+SBIN,Financials,2017-03,2018-03,Reinvestor,Distress - Asset Liquidation
+SBIN,Financials,2018-03,2019-03,Distress - Asset Liquidation,Cash Accumulator
+SBIN,Financials,2019-03,2020-03,Cash Accumulator,Aggressive Expander
+SBIN,Financials,2021-03,2022-03,Aggressive Expander,Reinvestor
+SBIN,Financials,2022-03,2023-03,Reinvestor,Distress Signal
+SBIN,Financials,2023-03,2024-03,Distress Signal,Reinvestor
+SHREECEM,Materials,2017-03,2018-03,Reinvestor,Aggressive Expander
+SHREECEM,Materials,2018-03,2019-03,Aggressive Expander,Reinvestor
+SHREECEM,Materials,2019-03,2020-03,Reinvestor,Aggressive Expander
+SHREECEM,Materials,2020-03,2021-03,Aggressive Expander,Reinvestor
+SHRIRAMFIN,Financials,2017-03,2018-03,Distress Signal,Distress - Asset Liquidation
+SHRIRAMFIN,Financials,2018-03,2019-03,Distress - Asset Liquidation,Distress Signal
+SHRIRAMFIN,Financials,2022-03,2023-03,Distress Signal,Distress - Asset Liquidation
+SHRIRAMFIN,Financials,2023-03,2024-03,Distress - Asset Liquidation,Distress Signal
+SIEMENS,Industrials,2017-09,2018-09,Shareholder Returns,Reinvestor
+SIEMENS,Industrials,2019-09,2020-09,Reinvestor,Shareholder Returns
+SIEMENS,Industrials,2020-09,2021-09,Shareholder Returns,Reinvestor
+SUNPHARMA,Healthcare,2013-03,2014-03,Reinvestor,Aggressive Expander
+SUNPHARMA,Healthcare,2014-03,2015-03,Aggressive Expander,Reinvestor
+SUNPHARMA,Healthcare,2020-03,2021-03,Reinvestor,Shareholder Returns
+SUNPHARMA,Healthcare,2021-03,2022-03,Shareholder Returns,Reinvestor
+SUNPHARMA,Healthcare,2022-03,2023-03,Reinvestor,Aggressive Expander
+SUNPHARMA,Healthcare,2023-03,2024-03,Aggressive Expander,Reinvestor
+TATACONSUM,Consumer Staples,2013-03,2014-03,Cash Accumulator,Reinvestor
+TATACONSUM,Consumer Staples,2015-03,2016-03,Reinvestor,Shareholder Returns
+TATACONSUM,Consumer Staples,2017-03,2018-03,Shareholder Returns,Reinvestor
+TATACONSUM,Consumer Staples,2018-03,2019-03,Reinvestor,Shareholder Returns
+TATACONSUM,Consumer Staples,2019-03,2020-03,Shareholder Returns,Reinvestor
+TATACONSUM,Consumer Staples,2023-03,2024-03,Reinvestor,Aggressive Expander
+TATAMOTORS,Consumer Discretionary,2014-03,2015-03,Reinvestor,Aggressive Expander
+TATAMOTORS,Consumer Discretionary,2015-03,2016-03,Aggressive Expander,Reinvestor
+TATAMOTORS,Consumer Discretionary,2016-03,2017-03,Reinvestor,Aggressive Expander
+TATAMOTORS,Consumer Discretionary,2021-03,2022-03,Aggressive Expander,Reinvestor
+TATAPOWER,Energy,2016-03,2017-03,Reinvestor,Aggressive Expander
+TATAPOWER,Energy,2017-03,2018-03,Aggressive Expander,Reinvestor
+TATAPOWER,Energy,2020-03,2021-03,Reinvestor,Shareholder Returns
+TATAPOWER,Energy,2021-03,2022-03,Shareholder Returns,Reinvestor
+TATAPOWER,Energy,2022-03,2023-03,Reinvestor,Aggressive Expander
+TATAPOWER,Energy,2023-03,2024-03,Aggressive Expander,Reinvestor
+TATASTEEL,Materials,2013-03,2014-03,Reinvestor,Aggressive Expander
+TATASTEEL,Materials,2014-03,2015-03,Aggressive Expander,Reinvestor
+TATASTEEL,Materials,2017-03,2018-03,Reinvestor,Aggressive Expander
+TATASTEEL,Materials,2018-03,2019-03,Aggressive Expander,Reinvestor
+TCS,Information Technology,2017-03,2018-03,Reinvestor,Shareholder Returns
+TCS,Information Technology,2020-03,2021-03,Shareholder Returns,Reinvestor
+TCS,Information Technology,2022-03,2023-03,Reinvestor,Shareholder Returns
+TECHM,Information Technology,2013-03,2014-03,Aggressive Expander,Shareholder Returns
+TECHM,Information Technology,2014-03,2015-03,Shareholder Returns,Reinvestor
+TECHM,Information Technology,2019-03,2020-03,Reinvestor,Shareholder Returns
+TECHM,Information Technology,2020-03,2021-03,Shareholder Returns,Reinvestor
+TECHM,Information Technology,2021-03,2022-03,Reinvestor,Shareholder Returns
+TECHM,Information Technology,2022-03,2023-03,Shareholder Returns,Reinvestor
+TITAN,Consumer Discretionary,2013-03,2014-03,Reinvestor,Distress Signal
+TITAN,Consumer Discretionary,2014-03,2015-03,Distress Signal,Reinvestor
+TITAN,Consumer Discretionary,2017-03,2018-03,Reinvestor,Cash Burn - Divestment Funded
+TITAN,Consumer Discretionary,2018-03,2019-03,Cash Burn - Divestment Funded,Reinvestor
+TITAN,Consumer Discretionary,2019-03,2020-03,Reinvestor,Cash Burn - Divestment Funded
+TITAN,Consumer Discretionary,2020-03,2021-03,Cash Burn - Divestment Funded,Reinvestor
+TITAN,Consumer Discretionary,2021-03,2022-03,Reinvestor,Cash Burn - Divestment Funded
+TITAN,Consumer Discretionary,2022-03,2023-03,Cash Burn - Divestment Funded,Aggressive Expander
+TITAN,Consumer Discretionary,2023-03,2024-03,Aggressive Expander,Reinvestor
+TORNTPHARM,Healthcare,2015-03,2016-03,Aggressive Expander,Reinvestor
+TORNTPHARM,Healthcare,2017-03,2018-03,Reinvestor,Aggressive Expander
+TORNTPHARM,Healthcare,2018-03,2019-03,Aggressive Expander,Reinvestor
+TORNTPHARM,Healthcare,2019-03,2020-03,Reinvestor,Shareholder Returns
+TORNTPHARM,Healthcare,2020-03,2021-03,Shareholder Returns,Reinvestor
+TORNTPHARM,Healthcare,2022-03,2023-03,Reinvestor,Aggressive Expander
+TORNTPHARM,Healthcare,2023-03,2024-03,Aggressive Expander,Reinvestor
+TRENT,Consumer Discretionary,2013-03,2014-03,Aggressive Expander,Cash Drain
+TRENT,Consumer Discretionary,2014-03,2015-03,Cash Drain,Distress Signal
+TRENT,Consumer Discretionary,2015-03,2016-03,Distress Signal,Reinvestor
+TRENT,Consumer Discretionary,2018-03,2019-03,Reinvestor,Aggressive Expander
+TRENT,Consumer Discretionary,2020-03,2021-03,Aggressive Expander,Shareholder Returns
+TRENT,Consumer Discretionary,2022-03,2023-03,Shareholder Returns,Reinvestor
+TVSMOTOR,Consumer Discretionary,2014-03,2015-03,Reinvestor,Aggressive Expander
+TVSMOTOR,Consumer Discretionary,2015-03,2016-03,Aggressive Expander,Reinvestor
+TVSMOTOR,Consumer Discretionary,2017-03,2018-03,Reinvestor,Aggressive Expander
+TVSMOTOR,Consumer Discretionary,2018-03,2019-03,Aggressive Expander,Distress Signal
+TVSMOTOR,Consumer Discretionary,2019-03,2020-03,Distress Signal,Aggressive Expander
+TVSMOTOR,Consumer Discretionary,2021-03,2022-03,Aggressive Expander,Distress Signal

@@ -1,0 +1,14 @@
+company_id,sector,year,cfo_value,cff_value,latest_net_profit,context
+PFC,Financials,2024-03,-97820.0,101261.0,26461.0,"Financial company: negative CFO / positive CFF is structural (loan growth funded by deposits/borrowings), not necessarily distress"
+BAJFINANCE,Financials,2024-03,-72760.0,82415.0,14451.0,"Financial company: negative CFO / positive CFF is structural (loan growth funded by deposits/borrowings), not necessarily distress"
+BAJAJFINSV,Financials,2024-03,-68674.0,82709.0,15595.0,"Financial company: negative CFO / positive CFF is structural (loan growth funded by deposits/borrowings), not necessarily distress"
+RECLTD,Financials,2024-03,-57723.0,59588.0,14145.0,"Financial company: negative CFO / positive CFF is structural (loan growth funded by deposits/borrowings), not necessarily distress"
+CHOLAFIN,Financials,2024-03,-35683.0,38471.0,3420.0,"Financial company: negative CFO / positive CFF is structural (loan growth funded by deposits/borrowings), not necessarily distress"
+SHRIRAMFIN,Financials,2024-03,-31101.0,27609.0,7399.0,"Financial company: negative CFO / positive CFF is structural (loan growth funded by deposits/borrowings), not necessarily distress"
+PNB,Financials,2024-03,-27939.0,3518.0,9157.0,"Financial company: negative CFO / positive CFF is structural (loan growth funded by deposits/borrowings), not necessarily distress"
+BANKBARODA,Financials,2024-03,-6274.0,5476.0,18869.0,"Financial company: negative CFO / positive CFF is structural (loan growth funded by deposits/borrowings), not necessarily distress"
+AXISBANK,Financials,2024-03,-5555.0,22341.0,24861.0,"Financial company: negative CFO / positive CFF is structural (loan growth funded by deposits/borrowings), not necessarily distress"
+GRASIM,Industrials,2024-03,-10719.0,33908.0,9926.0,Operating cash burn funded by financing - review
+M&M,Consumer Discretionary,2024-03,-5630.0,12281.0,12270.0,Operating cash burn funded by financing - review
+BHEL,Industrials,2024-03,-3713.0,2656.0,282.0,Operating cash burn funded by financing - review
+TVSMOTOR,Consumer Discretionary,2024-03,-1253.0,2759.0,1779.0,Operating cash burn funded by financing - review

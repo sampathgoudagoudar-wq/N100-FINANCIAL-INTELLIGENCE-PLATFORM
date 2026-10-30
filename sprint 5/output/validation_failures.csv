@@ -1,0 +1,247 @@
+table,company_id,year,issue,severity,action
+profitandloss,ULTRACEMCO,,orphan ticker not in companies (13 rows),CRITICAL,rejected (DQ-03)
+profitandloss,UNIONBANK,,orphan ticker not in companies (13 rows),CRITICAL,rejected (DQ-03)
+profitandloss,UNITDSPR,,orphan ticker not in companies (13 rows),CRITICAL,rejected (DQ-03)
+profitandloss,VBL,,orphan ticker not in companies (13 rows),CRITICAL,rejected (DQ-03)
+profitandloss,VEDL,,orphan ticker not in companies (13 rows),CRITICAL,rejected (DQ-03)
+profitandloss,WIPRO,,orphan ticker not in companies (13 rows),CRITICAL,rejected (DQ-03)
+profitandloss,ZOMATO,,orphan ticker not in companies (8 rows),CRITICAL,rejected (DQ-03)
+profitandloss,ZYDUSLIFE,,orphan ticker not in companies (13 rows),CRITICAL,rejected (DQ-03)
+profitandloss,AMBUJACEM,Mar 2023 15,non-12-month period label,WARNING,kept; closing month used
+profitandloss,HCLTECH,Mar 2016 9m,non-12-month period label,WARNING,kept; closing month used
+profitandloss,SHREECEM,Mar 2016 9m,non-12-month period label,WARNING,kept; closing month used
+balancesheet,ULTRACEMCO,,orphan ticker not in companies (13 rows),CRITICAL,rejected (DQ-03)
+balancesheet,UNIONBANK,,orphan ticker not in companies (12 rows),CRITICAL,rejected (DQ-03)
+balancesheet,UNITDSPR,,orphan ticker not in companies (13 rows),CRITICAL,rejected (DQ-03)
+balancesheet,VEDL,,orphan ticker not in companies (13 rows),CRITICAL,rejected (DQ-03)
+balancesheet,WIPRO,,orphan ticker not in companies (13 rows),CRITICAL,rejected (DQ-03)
+balancesheet,ZOMATO,,orphan ticker not in companies (8 rows),CRITICAL,rejected (DQ-03)
+balancesheet,ZYDUSLIFE,,orphan ticker not in companies (13 rows),CRITICAL,rejected (DQ-03)
+cashflow,AGTL,,orphan ticker not in companies (7 rows),CRITICAL,rejected (DQ-03)
+cashflow,ULTRACEMCO,,orphan ticker not in companies (12 rows),CRITICAL,rejected (DQ-03)
+cashflow,UNIONBANK,,orphan ticker not in companies (12 rows),CRITICAL,rejected (DQ-03)
+cashflow,UNITDSPR,,orphan ticker not in companies (12 rows),CRITICAL,rejected (DQ-03)
+cashflow,VBL,,orphan ticker not in companies (12 rows),CRITICAL,rejected (DQ-03)
+cashflow,VEDL,,orphan ticker not in companies (12 rows),CRITICAL,rejected (DQ-03)
+cashflow,WIPRO,,orphan ticker not in companies (12 rows),CRITICAL,rejected (DQ-03)
+cashflow,ZOMATO,,orphan ticker not in companies (5 rows),CRITICAL,rejected (DQ-03)
+cashflow,ZYDUSLIFE,,orphan ticker not in companies (12 rows),CRITICAL,rejected (DQ-03)
+profitandloss,ADANIPORTS,2013-03,"duplicate (company_id, year)",CRITICAL,dropped exact repeat
+profitandloss,ADANIPORTS,2014-03,"duplicate (company_id, year)",CRITICAL,dropped exact repeat
+profitandloss,ADANIPORTS,2015-03,"duplicate (company_id, year)",CRITICAL,dropped exact repeat
+profitandloss,ADANIPORTS,2016-03,"duplicate (company_id, year)",CRITICAL,dropped exact repeat
+profitandloss,ADANIPORTS,2017-03,"duplicate (company_id, year)",CRITICAL,dropped exact repeat
+profitandloss,ADANIPORTS,2018-03,"duplicate (company_id, year)",CRITICAL,dropped exact repeat
+profitandloss,ADANIPORTS,2019-03,"duplicate (company_id, year)",CRITICAL,dropped exact repeat
+profitandloss,ADANIPORTS,2020-03,"duplicate (company_id, year)",CRITICAL,dropped exact repeat
+profitandloss,ADANIPORTS,2021-03,"duplicate (company_id, year)",CRITICAL,dropped exact repeat
+profitandloss,ADANIPORTS,2022-03,"duplicate (company_id, year)",CRITICAL,dropped exact repeat
+profitandloss,ADANIPORTS,2023-03,"duplicate (company_id, year)",CRITICAL,dropped exact repeat
+profitandloss,ADANIPORTS,2024-03,"duplicate (company_id, year)",CRITICAL,dropped exact repeat
+balancesheet,ASIANPAINT,2013-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,ASIANPAINT,2014-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,ASIANPAINT,2015-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,ASIANPAINT,2016-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,ASIANPAINT,2017-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,ASIANPAINT,2018-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,ASIANPAINT,2019-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,ASIANPAINT,2020-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,ASIANPAINT,2021-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,ASIANPAINT,2022-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,ASIANPAINT,2023-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,ASIANPAINT,2024-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,ASIANPAINT,2024-09,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2013-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2014-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2015-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2016-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2017-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2018-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2019-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2020-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2021-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2022-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2023-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2024-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2013-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2014-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2015-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2016-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2017-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2018-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2019-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2020-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2021-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2022-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2023-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2024-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2013-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2014-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2015-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2016-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2017-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2018-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2019-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2020-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2021-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2022-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2023-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2024-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2013-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2014-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2015-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2016-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2017-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2018-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2019-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2020-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2021-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2022-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2023-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,PNB,2024-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,POWERGRID,2013-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,POWERGRID,2014-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,POWERGRID,2015-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,POWERGRID,2016-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,POWERGRID,2017-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,POWERGRID,2018-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,POWERGRID,2019-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,POWERGRID,2020-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,POWERGRID,2021-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,POWERGRID,2022-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,POWERGRID,2023-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,POWERGRID,2024-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,POWERGRID,2024-09,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,TECHM,2013-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,TECHM,2014-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,TECHM,2015-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,TECHM,2016-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,TECHM,2017-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,TECHM,2018-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,TECHM,2019-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,TECHM,2020-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,TECHM,2021-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,TECHM,2022-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,TECHM,2023-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,TECHM,2024-03,"duplicate (company_id, year)",CRITICAL,dropped repeat
+balancesheet,TECHM,2024-09,"duplicate (company_id, year)",CRITICAL,dropped repeat
+cashflow,ABB,2014-03,all-zero/null cash flow row,WARNING,dropped
+cashflow,ADANIENSOL,2014-03,all-zero/null cash flow row,WARNING,dropped
+cashflow,HDFCLIFE,2013-03,all-zero/null cash flow row,WARNING,dropped
+cashflow,HDFCLIFE,2014-03,all-zero/null cash flow row,WARNING,dropped
+cashflow,ABB,2015-03,duplicate key with conflicting values,CRITICAL,kept lowest-id row (matches P&L scale); later row dropped
+cashflow,ABB,2016-03,duplicate key with conflicting values,CRITICAL,kept lowest-id row (matches P&L scale); later row dropped
+cashflow,ABB,2017-03,duplicate key with conflicting values,CRITICAL,kept lowest-id row (matches P&L scale); later row dropped
+cashflow,ABB,2018-03,duplicate key with conflicting values,CRITICAL,kept lowest-id row (matches P&L scale); later row dropped
+cashflow,ABB,2019-03,duplicate key with conflicting values,CRITICAL,kept lowest-id row (matches P&L scale); later row dropped
+cashflow,ABB,2020-03,duplicate key with conflicting values,CRITICAL,kept lowest-id row (matches P&L scale); later row dropped
+cashflow,ABB,2021-03,duplicate key with conflicting values,CRITICAL,kept lowest-id row (matches P&L scale); later row dropped
+cashflow,ABB,2022-03,duplicate key with conflicting values,CRITICAL,kept lowest-id row (matches P&L scale); later row dropped
+cashflow,ABB,2023-03,duplicate key with conflicting values,CRITICAL,kept lowest-id row (matches P&L scale); later row dropped
+cashflow,ABB,2024-03,duplicate key with conflicting values,CRITICAL,kept lowest-id row (matches P&L scale); later row dropped
+cashflow,BAJAJ-AUTO,2013-03,duplicate key with conflicting values,CRITICAL,kept lowest-id row (matches P&L scale); later row dropped
+cashflow,BAJAJ-AUTO,2014-03,duplicate key with conflicting values,CRITICAL,kept lowest-id row (matches P&L scale); later row dropped
+cashflow,BAJAJ-AUTO,2015-03,duplicate key with conflicting values,CRITICAL,kept lowest-id row (matches P&L scale); later row dropped
+cashflow,BAJAJ-AUTO,2016-03,duplicate key with conflicting values,CRITICAL,kept lowest-id row (matches P&L scale); later row dropped
+cashflow,BAJAJ-AUTO,2017-03,duplicate key with conflicting values,CRITICAL,kept lowest-id row (matches P&L scale); later row dropped
+cashflow,BAJAJ-AUTO,2018-03,duplicate key with conflicting values,CRITICAL,kept lowest-id row (matches P&L scale); later row dropped
+cashflow,BAJAJ-AUTO,2019-03,duplicate key with conflicting values,CRITICAL,kept lowest-id row (matches P&L scale); later row dropped
+cashflow,BAJAJ-AUTO,2020-03,duplicate key with conflicting values,CRITICAL,kept lowest-id row (matches P&L scale); later row dropped
+cashflow,BAJAJ-AUTO,2021-03,duplicate key with conflicting values,CRITICAL,kept lowest-id row (matches P&L scale); later row dropped
+cashflow,BAJAJ-AUTO,2022-03,duplicate key with conflicting values,CRITICAL,kept lowest-id row (matches P&L scale); later row dropped
+cashflow,BAJAJ-AUTO,2023-03,duplicate key with conflicting values,CRITICAL,kept lowest-id row (matches P&L scale); later row dropped
+cashflow,BAJAJ-AUTO,2024-03,duplicate key with conflicting values,CRITICAL,kept lowest-id row (matches P&L scale); later row dropped
+cashflow,TCS,2013-03,duplicate key with conflicting values,CRITICAL,kept lowest-id row (matches P&L scale); later row dropped
+cashflow,TCS,2014-03,duplicate key with conflicting values,CRITICAL,kept lowest-id row (matches P&L scale); later row dropped
+cashflow,TCS,2015-03,duplicate key with conflicting values,CRITICAL,kept lowest-id row (matches P&L scale); later row dropped
+cashflow,TCS,2016-03,duplicate key with conflicting values,CRITICAL,kept lowest-id row (matches P&L scale); later row dropped
+cashflow,TCS,2017-03,duplicate key with conflicting values,CRITICAL,kept lowest-id row (matches P&L scale); later row dropped
+cashflow,TCS,2018-03,duplicate key with conflicting values,CRITICAL,kept lowest-id row (matches P&L scale); later row dropped
+cashflow,TCS,2019-03,duplicate key with conflicting values,CRITICAL,kept lowest-id row (matches P&L scale); later row dropped
+cashflow,TCS,2020-03,duplicate key with conflicting values,CRITICAL,kept lowest-id row (matches P&L scale); later row dropped
+cashflow,TCS,2021-03,duplicate key with conflicting values,CRITICAL,kept lowest-id row (matches P&L scale); later row dropped
+cashflow,TCS,2022-03,duplicate key with conflicting values,CRITICAL,kept lowest-id row (matches P&L scale); later row dropped
+cashflow,TCS,2023-03,duplicate key with conflicting values,CRITICAL,kept lowest-id row (matches P&L scale); later row dropped
+cashflow,TCS,2024-03,duplicate key with conflicting values,CRITICAL,kept lowest-id row (matches P&L scale); later row dropped
+balancesheet,ABB,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,ADANIENSOL,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,ADANIENT,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,ADANIGREEN,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,ADANIPORTS,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,ADANIPOWER,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,AMBUJACEM,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,APOLLOHOSP,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,ASIANPAINT,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,ATGL,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,BAJAJ-AUTO,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,BAJAJFINSV,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,BAJAJHLDNG,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,BAJFINANCE,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,BEL,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,BHARTIARTL,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,BHEL,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,BOSCHLTD,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,BPCL,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,BRITANNIA,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,CHOLAFIN,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,CIPLA,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,COALINDIA,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,DABUR,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,DIVISLAB,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,DLF,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,DMART,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,DRREDDY,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,EICHERMOT,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,GAIL,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,GODREJCP,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,GRASIM,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,HAL,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,HCLTECH,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,HAVELLS,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,HDFCLIFE,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,HEROMOTOCO,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,HINDALCO,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,HINDUNILVR,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,ICICIGI,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,ICICIPRULI,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,INDIGO,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,INFY,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,IOC,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,IRCTC,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,IRFC,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,ITC,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,ONGC,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,NTPC,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,NHPC,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,NESTLEIND,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,NAUKRI,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,MOTHERSON,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,MARUTI,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,M&M,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,LTIM,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,LT,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,LODHA,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,LICI,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,JSWSTEEL,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,JSWENERGY,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,JIOFIN,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,JINDALSTEL,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,PFC,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,PIDILITIND,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,POWERGRID,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,RECLTD,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,RELIANCE,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,SBILIFE,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,SHREECEM,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,SHRIRAMFIN,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,SUNPHARMA,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,TVSMOTOR,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,TRENT,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,TORNTPHARM,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,TITAN,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,TECHM,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,TATACONSUM,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,TCS,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,TATASTEEL,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,TATAPOWER,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel
+balancesheet,TATAMOTORS,Sep 2024,interim (half-year) balance sheet,WARNING,excluded from annual panel

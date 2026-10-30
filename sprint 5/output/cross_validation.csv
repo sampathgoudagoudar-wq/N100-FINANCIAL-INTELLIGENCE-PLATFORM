@@ -1,0 +1,25 @@
+company_id,metric_type,period_years,parsed_pct,computed_pct,computed_flag,divergence_pp,review_flag
+HDFCBANK,compounded_sales_growth,10,21.0,20.89,OK,0.11,OK
+HDFCBANK,compounded_sales_growth,5,22.0,21.95,OK,0.05,OK
+HDFCBANK,compounded_sales_growth,3,30.0,30.19,OK,0.19,OK
+HDFCBANK,compounded_profit_growth,10,22.0,22.26,OK,0.26,OK
+HDFCBANK,compounded_profit_growth,5,23.0,23.87,OK,0.87,OK
+HDFCBANK,compounded_profit_growth,3,26.0,27.12,OK,1.12,OK
+INFY,compounded_sales_growth,10,12.0,11.85,OK,0.15,OK
+INFY,compounded_sales_growth,5,13.0,13.2,OK,0.2,OK
+INFY,compounded_sales_growth,3,5.0,15.22,OK,10.22,MANUAL REVIEW
+INFY,compounded_profit_growth,10,9.0,9.43,OK,0.43,OK
+INFY,compounded_profit_growth,5,11.0,11.24,OK,0.24,OK
+INFY,compounded_profit_growth,3,10.0,10.56,OK,0.56,OK
+SBILIFE,compounded_sales_growth,5,24.0,24.23,OK,0.23,OK
+SBILIFE,compounded_sales_growth,3,17.0,17.24,OK,0.24,OK
+SBILIFE,compounded_sales_growth,10,23.0,22.56,OK,0.44,OK
+SBILIFE,compounded_profit_growth,5,6.0,7.37,OK,1.37,OK
+SBILIFE,compounded_profit_growth,3,9.0,9.16,OK,0.16,OK
+SBILIFE,compounded_profit_growth,10,9.0,10.03,OK,1.03,OK
+TCS,compounded_sales_growth,10,11.0,11.4,OK,0.4,OK
+TCS,compounded_sales_growth,5,10.0,10.46,OK,0.46,OK
+TCS,compounded_sales_growth,3,14.0,13.63,OK,0.37,OK
+TCS,compounded_profit_growth,10,9.0,9.08,OK,0.08,OK
+TCS,compounded_profit_growth,5,8.0,7.87,OK,0.13,OK
+TCS,compounded_profit_growth,3,12.0,12.29,OK,0.29,OK

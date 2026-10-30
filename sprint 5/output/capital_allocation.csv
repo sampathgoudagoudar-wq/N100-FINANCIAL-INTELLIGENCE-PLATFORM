@@ -1,0 +1,1074 @@
+company_id,year,cfo_sign,cfi_sign,cff_sign,pattern_label
+ABB,2012-12,+,-,-,Reinvestor
+ABB,2014-03,+,-,-,Reinvestor
+ABB,2015-03,+,-,-,Reinvestor
+ABB,2016-03,+,-,-,Reinvestor
+ABB,2017-03,+,-,-,Reinvestor
+ABB,2018-03,+,-,-,Reinvestor
+ABB,2019-03,+,-,-,Reinvestor
+ABB,2020-03,+,-,-,Reinvestor
+ABB,2021-03,+,-,-,Reinvestor
+ABB,2022-03,+,-,-,Reinvestor
+ABB,2023-03,+,-,-,Reinvestor
+ABB,2024-03,+,-,-,Reinvestor
+ADANIENSOL,2014-03,,,,
+ADANIENSOL,2015-03,-,-,+,Distress Signal
+ADANIENSOL,2016-03,+,-,-,Reinvestor
+ADANIENSOL,2017-03,+,-,-,Reinvestor
+ADANIENSOL,2018-03,+,-,+,Aggressive Expander
+ADANIENSOL,2019-03,+,-,+,Aggressive Expander
+ADANIENSOL,2020-03,+,-,+,Aggressive Expander
+ADANIENSOL,2021-03,+,-,-,Reinvestor
+ADANIENSOL,2022-03,+,-,-,Reinvestor
+ADANIENSOL,2023-03,+,-,+,Aggressive Expander
+ADANIENSOL,2024-03,+,-,-,Reinvestor
+ADANIENT,2013-03,+,-,+,Aggressive Expander
+ADANIENT,2014-03,+,-,-,Reinvestor
+ADANIENT,2015-03,+,-,+,Aggressive Expander
+ADANIENT,2016-03,+,-,-,Reinvestor
+ADANIENT,2017-03,+,-,+,Aggressive Expander
+ADANIENT,2018-03,+,-,+,Aggressive Expander
+ADANIENT,2019-03,+,+,-,Shareholder Returns
+ADANIENT,2020-03,+,-,-,Reinvestor
+ADANIENT,2021-03,+,-,+,Aggressive Expander
+ADANIENT,2022-03,+,-,+,Aggressive Expander
+ADANIENT,2023-03,+,-,-,Reinvestor
+ADANIENT,2024-03,+,-,+,Aggressive Expander
+ADANIGREEN,2017-03,+,-,+,Aggressive Expander
+ADANIGREEN,2018-03,+,-,+,Aggressive Expander
+ADANIGREEN,2019-03,+,-,+,Aggressive Expander
+ADANIGREEN,2020-03,+,-,+,Aggressive Expander
+ADANIGREEN,2021-03,+,-,+,Aggressive Expander
+ADANIGREEN,2022-03,+,-,+,Aggressive Expander
+ADANIGREEN,2023-03,+,-,-,Reinvestor
+ADANIGREEN,2024-03,+,-,+,Aggressive Expander
+ADANIPORTS,2013-03,+,-,+,Aggressive Expander
+ADANIPORTS,2014-03,+,-,+,Aggressive Expander
+ADANIPORTS,2015-03,+,-,-,Reinvestor
+ADANIPORTS,2016-03,+,-,+,Aggressive Expander
+ADANIPORTS,2017-03,+,-,-,Reinvestor
+ADANIPORTS,2018-03,+,-,-,Reinvestor
+ADANIPORTS,2019-03,+,-,+,Aggressive Expander
+ADANIPORTS,2020-03,+,-,-,Reinvestor
+ADANIPORTS,2021-03,+,-,+,Aggressive Expander
+ADANIPORTS,2022-03,+,-,-,Reinvestor
+ADANIPORTS,2023-03,+,-,-,Reinvestor
+ADANIPORTS,2024-03,+,-,-,Reinvestor
+ADANIPOWER,2013-03,+,-,+,Aggressive Expander
+ADANIPOWER,2014-03,+,-,+,Aggressive Expander
+ADANIPOWER,2015-03,+,-,-,Reinvestor
+ADANIPOWER,2016-03,+,-,-,Reinvestor
+ADANIPOWER,2017-03,+,-,-,Reinvestor
+ADANIPOWER,2018-03,+,-,-,Reinvestor
+ADANIPOWER,2019-03,+,-,-,Reinvestor
+ADANIPOWER,2020-03,+,-,-,Reinvestor
+ADANIPOWER,2021-03,+,-,-,Reinvestor
+ADANIPOWER,2022-03,+,+,-,Shareholder Returns
+ADANIPOWER,2023-03,+,+,-,Shareholder Returns
+ADANIPOWER,2024-03,+,+,-,Shareholder Returns
+AMBUJACEM,2012-12,+,-,-,Reinvestor
+AMBUJACEM,2013-12,+,-,-,Reinvestor
+AMBUJACEM,2014-12,+,-,-,Reinvestor
+AMBUJACEM,2015-12,+,-,-,Reinvestor
+AMBUJACEM,2016-12,+,-,-,Reinvestor
+AMBUJACEM,2017-12,+,-,-,Reinvestor
+AMBUJACEM,2018-12,+,-,-,Reinvestor
+AMBUJACEM,2019-12,+,-,-,Reinvestor
+AMBUJACEM,2020-12,+,-,-,Reinvestor
+AMBUJACEM,2021-12,+,-,-,Reinvestor
+AMBUJACEM,2023-03,+,-,+,Aggressive Expander
+AMBUJACEM,2024-03,+,-,+,Aggressive Expander
+APOLLOHOSP,2013-03,+,-,+,Aggressive Expander
+APOLLOHOSP,2014-03,+,-,-,Reinvestor
+APOLLOHOSP,2015-03,+,-,+,Aggressive Expander
+APOLLOHOSP,2016-03,+,-,+,Aggressive Expander
+APOLLOHOSP,2017-03,+,-,+,Aggressive Expander
+APOLLOHOSP,2018-03,+,-,-,Reinvestor
+APOLLOHOSP,2019-03,+,-,-,Reinvestor
+APOLLOHOSP,2020-03,+,-,-,Reinvestor
+APOLLOHOSP,2021-03,+,-,-,Reinvestor
+APOLLOHOSP,2022-03,+,-,-,Reinvestor
+APOLLOHOSP,2023-03,+,-,-,Reinvestor
+APOLLOHOSP,2024-03,+,-,-,Reinvestor
+ASIANPAINT,2013-03,+,-,-,Reinvestor
+ASIANPAINT,2014-03,+,-,-,Reinvestor
+ASIANPAINT,2015-03,+,-,-,Reinvestor
+ASIANPAINT,2016-03,+,-,-,Reinvestor
+ASIANPAINT,2017-03,+,-,-,Reinvestor
+ASIANPAINT,2018-03,+,-,-,Reinvestor
+ASIANPAINT,2019-03,+,-,-,Reinvestor
+ASIANPAINT,2020-03,+,-,-,Reinvestor
+ASIANPAINT,2021-03,+,-,-,Reinvestor
+ASIANPAINT,2022-03,+,-,-,Reinvestor
+ASIANPAINT,2023-03,+,-,-,Reinvestor
+ASIANPAINT,2024-03,+,-,-,Reinvestor
+ATGL,2018-03,,,,
+ATGL,2019-03,,,,
+ATGL,2020-03,,,,
+ATGL,2021-03,,,,
+ATGL,2022-03,,,,
+ATGL,2023-03,,,,
+ATGL,2024-03,,,,
+AXISBANK,2013-03,+,-,+,Aggressive Expander
+AXISBANK,2014-03,+,-,+,Aggressive Expander
+AXISBANK,2015-03,-,-,+,Distress Signal
+AXISBANK,2016-03,-,+,+,Distress - Asset Liquidation
+AXISBANK,2017-03,+,-,-,Reinvestor
+AXISBANK,2018-03,-,-,+,Distress Signal
+AXISBANK,2019-03,+,-,+,Aggressive Expander
+AXISBANK,2020-03,+,-,+,Aggressive Expander
+AXISBANK,2021-03,+,-,+,Aggressive Expander
+AXISBANK,2022-03,+,-,+,Aggressive Expander
+AXISBANK,2023-03,+,-,+,Aggressive Expander
+AXISBANK,2024-03,-,-,+,Distress Signal
+BAJAJ-AUTO,2013-03,+,-,-,Reinvestor
+BAJAJ-AUTO,2014-03,+,-,-,Reinvestor
+BAJAJ-AUTO,2015-03,+,-,-,Reinvestor
+BAJAJ-AUTO,2016-03,+,-,-,Reinvestor
+BAJAJ-AUTO,2017-03,+,-,-,Reinvestor
+BAJAJ-AUTO,2018-03,+,-,-,Reinvestor
+BAJAJ-AUTO,2019-03,+,-,-,Reinvestor
+BAJAJ-AUTO,2020-03,+,+,-,Shareholder Returns
+BAJAJ-AUTO,2021-03,+,-,-,Reinvestor
+BAJAJ-AUTO,2022-03,+,+,-,Shareholder Returns
+BAJAJ-AUTO,2023-03,+,+,-,Shareholder Returns
+BAJAJ-AUTO,2024-03,+,-,-,Reinvestor
+BAJAJFINSV,2013-03,-,+,+,Distress - Asset Liquidation
+BAJAJFINSV,2014-03,-,+,+,Distress - Asset Liquidation
+BAJAJFINSV,2015-03,-,+,+,Distress - Asset Liquidation
+BAJAJFINSV,2016-03,-,-,+,Distress Signal
+BAJAJFINSV,2017-03,-,+,+,Distress - Asset Liquidation
+BAJAJFINSV,2018-03,-,-,+,Distress Signal
+BAJAJFINSV,2019-03,-,-,+,Distress Signal
+BAJAJFINSV,2020-03,-,-,+,Distress Signal
+BAJAJFINSV,2021-03,+,-,+,Aggressive Expander
+BAJAJFINSV,2022-03,-,+,+,Distress - Asset Liquidation
+BAJAJFINSV,2023-03,-,-,+,Distress Signal
+BAJAJFINSV,2024-03,-,-,+,Distress Signal
+BAJAJHLDNG,2013-03,+,-,-,Reinvestor
+BAJAJHLDNG,2014-03,+,-,-,Reinvestor
+BAJAJHLDNG,2015-03,+,-,-,Reinvestor
+BAJAJHLDNG,2016-03,+,+,-,Shareholder Returns
+BAJAJHLDNG,2017-03,-,-,-,Cash Drain
+BAJAJHLDNG,2018-03,+,-,-,Reinvestor
+BAJAJHLDNG,2019-03,+,-,-,Reinvestor
+BAJAJHLDNG,2020-03,+,-,-,Reinvestor
+BAJAJHLDNG,2021-03,+,-,-,Reinvestor
+BAJAJHLDNG,2022-03,+,-,-,Reinvestor
+BAJAJHLDNG,2023-03,+,-,-,Reinvestor
+BAJAJHLDNG,2024-03,+,-,-,Reinvestor
+BAJFINANCE,2015-03,-,-,+,Distress Signal
+BAJFINANCE,2016-03,-,-,+,Distress Signal
+BAJFINANCE,2017-03,-,-,+,Distress Signal
+BAJFINANCE,2018-03,-,+,+,Distress - Asset Liquidation
+BAJFINANCE,2019-03,-,-,+,Distress Signal
+BAJFINANCE,2020-03,-,-,+,Distress Signal
+BAJFINANCE,2021-03,-,-,+,Distress Signal
+BAJFINANCE,2022-03,-,+,+,Distress - Asset Liquidation
+BAJFINANCE,2023-03,-,-,+,Distress Signal
+BAJFINANCE,2024-03,-,-,+,Distress Signal
+BANKBARODA,2013-03,+,-,-,Reinvestor
+BANKBARODA,2014-03,+,-,+,Aggressive Expander
+BANKBARODA,2015-03,+,-,-,Reinvestor
+BANKBARODA,2016-03,-,-,-,Cash Drain
+BANKBARODA,2017-03,+,-,-,Reinvestor
+BANKBARODA,2018-03,-,-,+,Distress Signal
+BANKBARODA,2019-03,-,-,+,Distress Signal
+BANKBARODA,2020-03,+,-,+,Aggressive Expander
+BANKBARODA,2021-03,-,-,-,Cash Drain
+BANKBARODA,2022-03,+,-,-,Reinvestor
+BANKBARODA,2023-03,-,-,-,Cash Drain
+BANKBARODA,2024-03,-,-,+,Distress Signal
+BEL,2013-03,-,+,-,Cash Burn - Divestment Funded
+BEL,2014-03,-,+,-,Cash Burn - Divestment Funded
+BEL,2015-03,+,-,-,Reinvestor
+BEL,2016-03,+,-,-,Reinvestor
+BEL,2017-03,-,+,-,Cash Burn - Divestment Funded
+BEL,2018-03,-,-,-,Cash Drain
+BEL,2019-03,+,-,-,Reinvestor
+BEL,2020-03,+,-,-,Reinvestor
+BEL,2021-03,+,-,-,Reinvestor
+BEL,2022-03,+,-,-,Reinvestor
+BEL,2023-03,+,+,-,Shareholder Returns
+BEL,2024-03,+,-,-,Reinvestor
+BHARTIARTL,2013-03,+,-,-,Reinvestor
+BHARTIARTL,2014-03,+,-,+,Aggressive Expander
+BHARTIARTL,2015-03,+,-,-,Reinvestor
+BHARTIARTL,2016-03,+,-,-,Reinvestor
+BHARTIARTL,2017-03,+,-,-,Reinvestor
+BHARTIARTL,2018-03,+,-,+,Aggressive Expander
+BHARTIARTL,2019-03,+,-,+,Aggressive Expander
+BHARTIARTL,2020-03,+,-,+,Aggressive Expander
+BHARTIARTL,2021-03,+,-,-,Reinvestor
+BHARTIARTL,2022-03,+,-,-,Reinvestor
+BHARTIARTL,2023-03,+,-,-,Reinvestor
+BHARTIARTL,2024-03,+,-,-,Reinvestor
+BHEL,2013-03,+,-,+,Aggressive Expander
+BHEL,2014-03,+,-,+,Aggressive Expander
+BHEL,2015-03,+,+,-,Shareholder Returns
+BHEL,2016-03,+,+,-,Shareholder Returns
+BHEL,2017-03,+,-,-,Reinvestor
+BHEL,2018-03,+,+,-,Shareholder Returns
+BHEL,2019-03,-,+,-,Cash Burn - Divestment Funded
+BHEL,2020-03,-,+,+,Distress - Asset Liquidation
+BHEL,2021-03,+,-,-,Reinvestor
+BHEL,2022-03,+,-,-,Reinvestor
+BHEL,2023-03,-,+,+,Distress - Asset Liquidation
+BHEL,2024-03,-,+,+,Distress - Asset Liquidation
+BOSCHLTD,2012-12,+,-,-,Reinvestor
+BOSCHLTD,2013-12,+,-,-,Reinvestor
+BOSCHLTD,2015-03,+,-,-,Reinvestor
+BOSCHLTD,2016-03,+,-,-,Reinvestor
+BOSCHLTD,2017-03,+,+,-,Shareholder Returns
+BOSCHLTD,2018-03,+,-,-,Reinvestor
+BOSCHLTD,2019-03,+,+,-,Shareholder Returns
+BOSCHLTD,2020-03,+,-,-,Reinvestor
+BOSCHLTD,2021-03,+,-,-,Reinvestor
+BOSCHLTD,2022-03,+,-,-,Reinvestor
+BOSCHLTD,2023-03,+,+,-,Shareholder Returns
+BOSCHLTD,2024-03,+,+,-,Shareholder Returns
+BPCL,2013-03,+,-,-,Reinvestor
+BPCL,2014-03,+,-,-,Reinvestor
+BPCL,2015-03,+,-,-,Reinvestor
+BPCL,2016-03,+,-,-,Reinvestor
+BPCL,2017-03,+,-,+,Aggressive Expander
+BPCL,2018-03,+,-,-,Reinvestor
+BPCL,2019-03,+,-,+,Aggressive Expander
+BPCL,2020-03,+,-,+,Aggressive Expander
+BPCL,2021-03,+,-,-,Reinvestor
+BPCL,2022-03,+,-,-,Reinvestor
+BPCL,2023-03,+,-,-,Reinvestor
+BPCL,2024-03,+,-,-,Reinvestor
+BRITANNIA,2013-03,+,+,-,Shareholder Returns
+BRITANNIA,2014-03,+,-,-,Reinvestor
+BRITANNIA,2015-03,+,-,-,Reinvestor
+BRITANNIA,2016-03,+,-,-,Reinvestor
+BRITANNIA,2017-03,+,-,-,Reinvestor
+BRITANNIA,2018-03,+,-,-,Reinvestor
+BRITANNIA,2019-03,+,-,-,Reinvestor
+BRITANNIA,2020-03,+,-,+,Aggressive Expander
+BRITANNIA,2021-03,+,+,-,Shareholder Returns
+BRITANNIA,2022-03,+,+,-,Shareholder Returns
+BRITANNIA,2023-03,+,-,-,Reinvestor
+BRITANNIA,2024-03,+,+,-,Shareholder Returns
+CANBK,2013-03,+,-,-,Reinvestor
+CANBK,2014-03,+,-,-,Reinvestor
+CANBK,2015-03,+,-,-,Reinvestor
+CANBK,2016-03,+,-,-,Reinvestor
+CANBK,2017-03,+,-,+,Aggressive Expander
+CANBK,2018-03,-,-,+,Distress Signal
+CANBK,2019-03,+,-,-,Reinvestor
+CANBK,2020-03,-,-,+,Distress Signal
+CANBK,2021-03,+,-,+,Aggressive Expander
+CANBK,2022-03,+,-,+,Aggressive Expander
+CANBK,2023-03,-,-,+,Distress Signal
+CANBK,2024-03,+,-,-,Reinvestor
+CHOLAFIN,2013-03,-,+,+,Distress - Asset Liquidation
+CHOLAFIN,2014-03,-,-,+,Distress Signal
+CHOLAFIN,2015-03,-,-,+,Distress Signal
+CHOLAFIN,2016-03,-,-,+,Distress Signal
+CHOLAFIN,2017-03,-,-,+,Distress Signal
+CHOLAFIN,2018-03,-,-,+,Distress Signal
+CHOLAFIN,2019-03,-,-,+,Distress Signal
+CHOLAFIN,2020-03,-,-,+,Distress Signal
+CHOLAFIN,2021-03,-,-,+,Distress Signal
+CHOLAFIN,2022-03,-,+,+,Distress - Asset Liquidation
+CHOLAFIN,2023-03,-,-,+,Distress Signal
+CHOLAFIN,2024-03,-,-,+,Distress Signal
+CIPLA,2013-03,+,-,+,Aggressive Expander
+CIPLA,2014-03,+,-,-,Reinvestor
+CIPLA,2015-03,+,-,+,Aggressive Expander
+CIPLA,2016-03,+,-,+,Aggressive Expander
+CIPLA,2017-03,+,-,-,Reinvestor
+CIPLA,2018-03,+,-,-,Reinvestor
+CIPLA,2019-03,+,-,-,Reinvestor
+CIPLA,2020-03,+,+,-,Shareholder Returns
+CIPLA,2021-03,+,-,-,Reinvestor
+CIPLA,2022-03,+,-,-,Reinvestor
+CIPLA,2023-03,+,-,-,Reinvestor
+CIPLA,2024-03,+,-,-,Reinvestor
+COALINDIA,2013-03,+,-,-,Reinvestor
+COALINDIA,2014-03,+,+,-,Shareholder Returns
+COALINDIA,2015-03,+,+,-,Shareholder Returns
+COALINDIA,2016-03,+,+,-,Shareholder Returns
+COALINDIA,2017-03,+,+,-,Shareholder Returns
+COALINDIA,2018-03,+,-,-,Reinvestor
+COALINDIA,2019-03,+,-,-,Reinvestor
+COALINDIA,2020-03,+,+,-,Shareholder Returns
+COALINDIA,2021-03,+,+,-,Shareholder Returns
+COALINDIA,2022-03,+,-,-,Reinvestor
+COALINDIA,2023-03,+,-,-,Reinvestor
+COALINDIA,2024-03,+,-,-,Reinvestor
+DABUR,2013-03,+,-,-,Reinvestor
+DABUR,2014-03,+,-,-,Reinvestor
+DABUR,2015-03,+,-,-,Reinvestor
+DABUR,2016-03,+,-,-,Reinvestor
+DABUR,2017-03,+,-,-,Reinvestor
+DABUR,2018-03,+,-,-,Reinvestor
+DABUR,2019-03,+,+,-,Shareholder Returns
+DABUR,2020-03,+,-,-,Reinvestor
+DABUR,2021-03,+,-,-,Reinvestor
+DABUR,2022-03,+,-,-,Reinvestor
+DABUR,2023-03,+,-,-,Reinvestor
+DABUR,2024-03,+,-,-,Reinvestor
+DIVISLAB,2013-03,+,-,-,Reinvestor
+DIVISLAB,2014-03,+,-,-,Reinvestor
+DIVISLAB,2015-03,+,-,-,Reinvestor
+DIVISLAB,2016-03,+,-,-,Reinvestor
+DIVISLAB,2017-03,+,-,+,Aggressive Expander
+DIVISLAB,2018-03,+,-,-,Reinvestor
+DIVISLAB,2019-03,+,-,-,Reinvestor
+DIVISLAB,2020-03,+,-,-,Reinvestor
+DIVISLAB,2021-03,+,+,-,Shareholder Returns
+DIVISLAB,2022-03,+,-,-,Reinvestor
+DIVISLAB,2023-03,+,-,-,Reinvestor
+DIVISLAB,2024-03,+,-,-,Reinvestor
+DLF,2013-03,+,+,-,Shareholder Returns
+DLF,2014-03,+,+,-,Shareholder Returns
+DLF,2015-03,+,+,-,Shareholder Returns
+DLF,2016-03,+,-,-,Reinvestor
+DLF,2017-03,-,+,+,Distress - Asset Liquidation
+DLF,2018-03,+,-,-,Reinvestor
+DLF,2019-03,+,+,+,Cash Accumulator
+DLF,2020-03,+,+,-,Shareholder Returns
+DLF,2021-03,+,+,-,Shareholder Returns
+DLF,2022-03,+,+,-,Shareholder Returns
+DLF,2023-03,+,-,-,Reinvestor
+DLF,2024-03,+,-,+,Aggressive Expander
+DMART,2013-03,+,-,+,Aggressive Expander
+DMART,2014-03,+,-,+,Aggressive Expander
+DMART,2015-03,+,-,+,Aggressive Expander
+DMART,2016-03,+,-,+,Aggressive Expander
+DMART,2017-03,+,-,+,Aggressive Expander
+DMART,2018-03,+,+,-,Shareholder Returns
+DMART,2019-03,+,-,+,Aggressive Expander
+DMART,2020-03,+,-,+,Aggressive Expander
+DMART,2021-03,+,-,-,Reinvestor
+DMART,2022-03,+,-,-,Reinvestor
+DMART,2023-03,+,-,-,Reinvestor
+DMART,2024-03,+,-,-,Reinvestor
+DRREDDY,2013-03,+,-,-,Reinvestor
+DRREDDY,2014-03,+,-,-,Reinvestor
+DRREDDY,2015-03,+,-,-,Reinvestor
+DRREDDY,2016-03,+,-,-,Reinvestor
+DRREDDY,2017-03,+,-,-,Reinvestor
+DRREDDY,2018-03,+,-,-,Reinvestor
+DRREDDY,2019-03,+,-,-,Reinvestor
+DRREDDY,2020-03,+,-,-,Reinvestor
+DRREDDY,2021-03,+,-,-,Reinvestor
+DRREDDY,2022-03,+,-,-,Reinvestor
+DRREDDY,2023-03,+,-,-,Reinvestor
+DRREDDY,2024-03,+,-,-,Reinvestor
+EICHERMOT,2012-12,+,-,-,Reinvestor
+EICHERMOT,2013-12,+,-,-,Reinvestor
+EICHERMOT,2014-12,+,-,-,Reinvestor
+EICHERMOT,2016-03,+,-,-,Reinvestor
+EICHERMOT,2017-03,+,-,+,Aggressive Expander
+EICHERMOT,2018-03,+,-,-,Reinvestor
+EICHERMOT,2019-03,+,-,-,Reinvestor
+EICHERMOT,2020-03,+,-,-,Reinvestor
+EICHERMOT,2021-03,+,-,-,Reinvestor
+EICHERMOT,2022-03,+,-,-,Reinvestor
+EICHERMOT,2023-03,+,-,-,Reinvestor
+EICHERMOT,2024-03,+,-,-,Reinvestor
+GAIL,2013-03,+,-,+,Aggressive Expander
+GAIL,2014-03,+,-,-,Reinvestor
+GAIL,2015-03,+,-,-,Reinvestor
+GAIL,2016-03,+,-,-,Reinvestor
+GAIL,2017-03,+,-,-,Reinvestor
+GAIL,2018-03,+,-,-,Reinvestor
+GAIL,2019-03,+,-,-,Reinvestor
+GAIL,2020-03,+,-,+,Aggressive Expander
+GAIL,2021-03,+,-,-,Reinvestor
+GAIL,2022-03,+,-,-,Reinvestor
+GAIL,2023-03,+,-,+,Aggressive Expander
+GAIL,2024-03,+,-,-,Reinvestor
+GODREJCP,2013-03,+,-,+,Aggressive Expander
+GODREJCP,2014-03,+,-,-,Reinvestor
+GODREJCP,2015-03,+,-,-,Reinvestor
+GODREJCP,2016-03,+,-,-,Reinvestor
+GODREJCP,2017-03,+,-,+,Aggressive Expander
+GODREJCP,2018-03,+,-,-,Reinvestor
+GODREJCP,2019-03,+,+,-,Shareholder Returns
+GODREJCP,2020-03,+,-,-,Reinvestor
+GODREJCP,2021-03,+,-,-,Reinvestor
+GODREJCP,2022-03,+,-,-,Reinvestor
+GODREJCP,2023-03,+,-,-,Reinvestor
+GODREJCP,2024-03,+,-,+,Aggressive Expander
+GRASIM,2013-03,+,-,+,Aggressive Expander
+GRASIM,2014-03,+,-,-,Reinvestor
+GRASIM,2015-03,+,-,-,Reinvestor
+GRASIM,2016-03,+,-,-,Reinvestor
+GRASIM,2017-03,+,-,-,Reinvestor
+GRASIM,2018-03,-,+,+,Distress - Asset Liquidation
+GRASIM,2019-03,-,-,+,Distress Signal
+GRASIM,2020-03,+,-,-,Reinvestor
+GRASIM,2021-03,+,-,-,Reinvestor
+GRASIM,2022-03,+,-,-,Reinvestor
+GRASIM,2023-03,-,-,+,Distress Signal
+GRASIM,2024-03,-,-,+,Distress Signal
+HAL,2013-03,,,,
+HAL,2014-03,,,,
+HAL,2015-03,,,,
+HAL,2016-03,,,,
+HAL,2017-03,-,+,-,Cash Burn - Divestment Funded
+HAL,2018-03,-,+,-,Cash Burn - Divestment Funded
+HAL,2019-03,-,+,+,Distress - Asset Liquidation
+HAL,2020-03,+,-,+,Aggressive Expander
+HAL,2021-03,+,-,-,Reinvestor
+HAL,2022-03,+,-,-,Reinvestor
+HAL,2023-03,+,-,-,Reinvestor
+HAL,2024-03,+,-,-,Reinvestor
+HAVELLS,2013-03,+,-,-,Reinvestor
+HAVELLS,2014-03,+,-,-,Reinvestor
+HAVELLS,2015-03,+,-,-,Reinvestor
+HAVELLS,2016-03,+,-,-,Reinvestor
+HAVELLS,2017-03,+,-,-,Reinvestor
+HAVELLS,2018-03,+,-,-,Reinvestor
+HAVELLS,2019-03,+,+,-,Shareholder Returns
+HAVELLS,2020-03,+,-,-,Reinvestor
+HAVELLS,2021-03,+,-,+,Aggressive Expander
+HAVELLS,2022-03,+,-,-,Reinvestor
+HAVELLS,2023-03,+,+,-,Shareholder Returns
+HAVELLS,2024-03,+,-,-,Reinvestor
+HCLTECH,2013-06,+,-,-,Reinvestor
+HCLTECH,2014-06,+,-,-,Reinvestor
+HCLTECH,2015-06,+,-,-,Reinvestor
+HCLTECH,2016-03,+,-,-,Reinvestor
+HCLTECH,2017-03,+,-,-,Reinvestor
+HCLTECH,2018-03,+,-,-,Reinvestor
+HCLTECH,2019-03,+,-,-,Reinvestor
+HCLTECH,2020-03,+,-,-,Reinvestor
+HCLTECH,2021-03,+,-,-,Reinvestor
+HCLTECH,2022-03,+,+,-,Shareholder Returns
+HCLTECH,2023-03,+,-,-,Reinvestor
+HCLTECH,2024-03,+,-,-,Reinvestor
+HDFCBANK,2013-03,-,-,+,Distress Signal
+HDFCBANK,2014-03,+,-,+,Aggressive Expander
+HDFCBANK,2015-03,-,-,+,Distress Signal
+HDFCBANK,2016-03,-,-,+,Distress Signal
+HDFCBANK,2017-03,+,-,-,Reinvestor
+HDFCBANK,2018-03,+,-,+,Aggressive Expander
+HDFCBANK,2019-03,-,-,+,Distress Signal
+HDFCBANK,2020-03,-,-,+,Distress Signal
+HDFCBANK,2021-03,+,-,-,Reinvestor
+HDFCBANK,2022-03,-,-,+,Distress Signal
+HDFCBANK,2023-03,+,-,+,Aggressive Expander
+HDFCBANK,2024-03,+,+,-,Shareholder Returns
+HDFCLIFE,2013-03,,,,
+HDFCLIFE,2014-03,,,,
+HDFCLIFE,2015-03,+,-,-,Reinvestor
+HDFCLIFE,2016-03,+,-,-,Reinvestor
+HDFCLIFE,2017-03,+,-,-,Reinvestor
+HDFCLIFE,2018-03,+,-,-,Reinvestor
+HDFCLIFE,2019-03,+,-,-,Reinvestor
+HDFCLIFE,2020-03,+,-,+,Aggressive Expander
+HDFCLIFE,2021-03,+,-,+,Aggressive Expander
+HDFCLIFE,2022-03,+,-,-,Reinvestor
+HDFCLIFE,2023-03,+,-,+,Aggressive Expander
+HDFCLIFE,2024-03,+,-,-,Reinvestor
+HEROMOTOCO,2014-03,+,-,-,Reinvestor
+HEROMOTOCO,2015-03,+,+,-,Shareholder Returns
+HEROMOTOCO,2016-03,+,-,-,Reinvestor
+HEROMOTOCO,2017-03,+,-,-,Reinvestor
+HEROMOTOCO,2018-03,+,-,-,Reinvestor
+HEROMOTOCO,2019-03,+,+,-,Shareholder Returns
+HEROMOTOCO,2020-03,+,-,-,Reinvestor
+HEROMOTOCO,2021-03,+,-,-,Reinvestor
+HEROMOTOCO,2022-03,+,-,-,Reinvestor
+HEROMOTOCO,2023-03,+,-,-,Reinvestor
+HEROMOTOCO,2024-03,+,-,-,Reinvestor
+HINDALCO,2013-03,+,-,+,Aggressive Expander
+HINDALCO,2014-03,+,-,+,Aggressive Expander
+HINDALCO,2015-03,+,-,-,Reinvestor
+HINDALCO,2016-03,+,-,-,Reinvestor
+HINDALCO,2017-03,+,-,-,Reinvestor
+HINDALCO,2018-03,+,+,-,Shareholder Returns
+HINDALCO,2019-03,+,-,-,Reinvestor
+HINDALCO,2020-03,+,-,+,Aggressive Expander
+HINDALCO,2021-03,+,-,-,Reinvestor
+HINDALCO,2022-03,+,-,-,Reinvestor
+HINDALCO,2023-03,+,-,-,Reinvestor
+HINDALCO,2024-03,+,-,-,Reinvestor
+HINDUNILVR,2013-03,+,+,-,Shareholder Returns
+HINDUNILVR,2014-03,+,-,-,Reinvestor
+HINDUNILVR,2015-03,+,+,-,Shareholder Returns
+HINDUNILVR,2016-03,+,-,-,Reinvestor
+HINDUNILVR,2017-03,+,-,-,Reinvestor
+HINDUNILVR,2018-03,+,-,-,Reinvestor
+HINDUNILVR,2019-03,+,-,-,Reinvestor
+HINDUNILVR,2020-03,+,+,-,Shareholder Returns
+HINDUNILVR,2021-03,+,-,-,Reinvestor
+HINDUNILVR,2022-03,+,-,-,Reinvestor
+HINDUNILVR,2023-03,+,-,-,Reinvestor
+HINDUNILVR,2024-03,+,-,-,Reinvestor
+ICICIBANK,2013-03,+,-,+,Aggressive Expander
+ICICIBANK,2014-03,+,-,+,Aggressive Expander
+ICICIBANK,2015-03,-,-,+,Distress Signal
+ICICIBANK,2016-03,+,-,+,Aggressive Expander
+ICICIBANK,2017-03,+,-,-,Reinvestor
+ICICIBANK,2018-03,+,-,+,Aggressive Expander
+ICICIBANK,2019-03,+,-,-,Reinvestor
+ICICIBANK,2020-03,+,-,+,Aggressive Expander
+ICICIBANK,2021-03,+,-,-,Reinvestor
+ICICIBANK,2022-03,+,-,+,Aggressive Expander
+ICICIBANK,2023-03,-,-,+,Distress Signal
+ICICIBANK,2024-03,+,-,+,Aggressive Expander
+ICICIGI,2013-03,+,-,+,Aggressive Expander
+ICICIGI,2014-03,+,-,+,Aggressive Expander
+ICICIGI,2015-03,-,+,-,Cash Burn - Divestment Funded
+ICICIGI,2016-03,+,-,-,Reinvestor
+ICICIGI,2017-03,+,-,+,Aggressive Expander
+ICICIGI,2018-03,+,-,-,Reinvestor
+ICICIGI,2019-03,+,-,-,Reinvestor
+ICICIGI,2020-03,+,-,-,Reinvestor
+ICICIGI,2021-03,+,-,-,Reinvestor
+ICICIGI,2022-03,+,+,-,Shareholder Returns
+ICICIGI,2023-03,+,-,-,Reinvestor
+ICICIGI,2024-03,+,-,-,Reinvestor
+ICICIPRULI,2013-03,-,+,-,Cash Burn - Divestment Funded
+ICICIPRULI,2014-03,-,+,-,Cash Burn - Divestment Funded
+ICICIPRULI,2015-03,+,-,-,Reinvestor
+ICICIPRULI,2016-03,+,+,-,Shareholder Returns
+ICICIPRULI,2017-03,+,-,-,Reinvestor
+ICICIPRULI,2018-03,+,-,-,Reinvestor
+ICICIPRULI,2019-03,+,-,-,Reinvestor
+ICICIPRULI,2020-03,+,-,-,Reinvestor
+ICICIPRULI,2021-03,+,-,+,Aggressive Expander
+ICICIPRULI,2022-03,+,-,-,Reinvestor
+ICICIPRULI,2023-03,+,-,-,Reinvestor
+ICICIPRULI,2024-03,-,+,-,Cash Burn - Divestment Funded
+INDIGO,2013-03,+,-,+,Aggressive Expander
+INDIGO,2014-03,+,-,+,Aggressive Expander
+INDIGO,2015-03,+,-,-,Reinvestor
+INDIGO,2016-03,+,-,-,Reinvestor
+INDIGO,2017-03,+,-,-,Reinvestor
+INDIGO,2018-03,+,-,+,Aggressive Expander
+INDIGO,2019-03,+,-,-,Reinvestor
+INDIGO,2020-03,+,-,-,Reinvestor
+INDIGO,2021-03,-,+,-,Cash Burn - Divestment Funded
+INDIGO,2022-03,+,+,-,Shareholder Returns
+INDIGO,2023-03,+,-,-,Reinvestor
+INDIGO,2024-03,+,-,-,Reinvestor
+INDUSINDBK,2013-03,-,-,+,Distress Signal
+INDUSINDBK,2014-03,-,-,+,Distress Signal
+INDUSINDBK,2015-03,-,-,+,Distress Signal
+INDUSINDBK,2016-03,-,-,+,Distress Signal
+INDUSINDBK,2017-03,+,-,-,Reinvestor
+INDUSINDBK,2018-03,-,-,+,Distress Signal
+INDUSINDBK,2019-03,-,-,+,Distress Signal
+INDUSINDBK,2020-03,-,+,+,Distress - Asset Liquidation
+INDUSINDBK,2021-03,+,-,-,Reinvestor
+INDUSINDBK,2022-03,+,-,-,Reinvestor
+INDUSINDBK,2023-03,-,-,+,Distress Signal
+INDUSINDBK,2024-03,-,-,-,Cash Drain
+INFY,2013-03,+,-,-,Reinvestor
+INFY,2014-03,+,-,-,Reinvestor
+INFY,2015-03,+,+,-,Shareholder Returns
+INFY,2016-03,+,-,-,Reinvestor
+INFY,2017-03,+,-,-,Reinvestor
+INFY,2018-03,+,+,-,Shareholder Returns
+INFY,2019-03,+,-,-,Reinvestor
+INFY,2020-03,+,-,-,Reinvestor
+INFY,2021-03,+,-,-,Reinvestor
+INFY,2022-03,+,-,-,Reinvestor
+INFY,2023-03,+,-,-,Reinvestor
+INFY,2024-03,+,-,-,Reinvestor
+IOC,2013-03,+,-,+,Aggressive Expander
+IOC,2014-03,+,-,-,Reinvestor
+IOC,2015-03,+,-,-,Reinvestor
+IOC,2016-03,+,-,-,Reinvestor
+IOC,2017-03,+,-,-,Reinvestor
+IOC,2018-03,+,-,-,Reinvestor
+IOC,2019-03,+,-,+,Aggressive Expander
+IOC,2020-03,+,-,+,Aggressive Expander
+IOC,2021-03,+,-,-,Reinvestor
+IOC,2022-03,+,-,-,Reinvestor
+IOC,2023-03,+,-,-,Reinvestor
+IOC,2024-03,+,-,-,Reinvestor
+IRCTC,2015-03,+,-,-,Reinvestor
+IRCTC,2016-03,+,+,-,Shareholder Returns
+IRCTC,2017-03,+,+,-,Shareholder Returns
+IRCTC,2018-03,+,+,-,Shareholder Returns
+IRCTC,2019-03,+,-,-,Reinvestor
+IRCTC,2020-03,+,+,-,Shareholder Returns
+IRCTC,2021-03,+,-,-,Reinvestor
+IRCTC,2022-03,+,-,-,Reinvestor
+IRCTC,2023-03,+,-,-,Reinvestor
+IRCTC,2024-03,+,-,-,Reinvestor
+IRFC,2013-03,,,,
+IRFC,2014-03,,,,
+IRFC,2015-03,,,,
+IRFC,2016-03,-,+,+,Distress - Asset Liquidation
+IRFC,2017-03,-,+,+,Distress - Asset Liquidation
+IRFC,2018-03,-,+,+,Distress - Asset Liquidation
+IRFC,2019-03,-,+,+,Distress - Asset Liquidation
+IRFC,2020-03,-,+,+,Distress - Asset Liquidation
+IRFC,2021-03,-,+,+,Distress - Asset Liquidation
+IRFC,2022-03,-,-,+,Distress Signal
+IRFC,2023-03,-,+,+,Distress - Asset Liquidation
+IRFC,2024-03,+,-,-,Reinvestor
+ITC,2013-03,+,-,-,Reinvestor
+ITC,2014-03,+,-,-,Reinvestor
+ITC,2015-03,+,-,-,Reinvestor
+ITC,2016-03,+,-,-,Reinvestor
+ITC,2017-03,+,-,-,Reinvestor
+ITC,2018-03,+,-,-,Reinvestor
+ITC,2019-03,+,-,-,Reinvestor
+ITC,2020-03,+,-,-,Reinvestor
+ITC,2021-03,+,+,-,Shareholder Returns
+ITC,2022-03,+,-,-,Reinvestor
+ITC,2023-03,+,-,-,Reinvestor
+ITC,2024-03,+,+,-,Shareholder Returns
+JINDALSTEL,2013-03,+,-,+,Aggressive Expander
+JINDALSTEL,2014-03,+,-,+,Aggressive Expander
+JINDALSTEL,2015-03,+,-,+,Aggressive Expander
+JINDALSTEL,2016-03,+,-,-,Reinvestor
+JINDALSTEL,2017-03,+,-,-,Reinvestor
+JINDALSTEL,2018-03,+,-,-,Reinvestor
+JINDALSTEL,2019-03,+,-,-,Reinvestor
+JINDALSTEL,2020-03,+,-,-,Reinvestor
+JINDALSTEL,2021-03,+,-,-,Reinvestor
+JINDALSTEL,2022-03,+,-,-,Reinvestor
+JINDALSTEL,2023-03,+,-,-,Reinvestor
+JINDALSTEL,2024-03,+,-,+,Aggressive Expander
+JIOFIN,2023-03,+,-,-,Reinvestor
+JIOFIN,2024-03,-,+,-,Cash Burn - Divestment Funded
+JSWENERGY,2013-03,+,-,-,Reinvestor
+JSWENERGY,2014-03,+,-,-,Reinvestor
+JSWENERGY,2015-03,+,-,-,Reinvestor
+JSWENERGY,2016-03,+,-,-,Reinvestor
+JSWENERGY,2017-03,+,-,-,Reinvestor
+JSWENERGY,2018-03,+,-,-,Reinvestor
+JSWENERGY,2019-03,+,-,-,Reinvestor
+JSWENERGY,2020-03,+,+,-,Shareholder Returns
+JSWENERGY,2021-03,+,-,-,Reinvestor
+JSWENERGY,2022-03,+,-,-,Reinvestor
+JSWENERGY,2023-03,+,-,+,Aggressive Expander
+JSWENERGY,2024-03,+,-,+,Aggressive Expander
+JSWSTEEL,2013-03,+,-,-,Reinvestor
+JSWSTEEL,2014-03,+,-,+,Aggressive Expander
+JSWSTEEL,2015-03,+,-,-,Reinvestor
+JSWSTEEL,2016-03,+,-,-,Reinvestor
+JSWSTEEL,2017-03,+,-,-,Reinvestor
+JSWSTEEL,2018-03,+,-,-,Reinvestor
+JSWSTEEL,2019-03,+,-,+,Aggressive Expander
+JSWSTEEL,2020-03,+,-,+,Aggressive Expander
+JSWSTEEL,2021-03,+,-,-,Reinvestor
+JSWSTEEL,2022-03,+,-,-,Reinvestor
+JSWSTEEL,2023-03,+,-,-,Reinvestor
+JSWSTEEL,2024-03,+,-,-,Reinvestor
+KOTAKBANK,2013-03,+,-,+,Aggressive Expander
+KOTAKBANK,2014-03,+,-,-,Reinvestor
+KOTAKBANK,2015-03,+,-,+,Aggressive Expander
+KOTAKBANK,2016-03,+,-,+,Aggressive Expander
+KOTAKBANK,2017-03,+,-,+,Aggressive Expander
+KOTAKBANK,2018-03,-,-,+,Distress Signal
+KOTAKBANK,2019-03,+,-,+,Aggressive Expander
+KOTAKBANK,2020-03,+,-,-,Reinvestor
+KOTAKBANK,2021-03,+,-,-,Reinvestor
+KOTAKBANK,2022-03,+,-,+,Aggressive Expander
+KOTAKBANK,2023-03,-,-,+,Distress Signal
+KOTAKBANK,2024-03,+,-,+,Aggressive Expander
+LICI,2019-03,+,+,-,Shareholder Returns
+LICI,2020-03,+,-,-,Reinvestor
+LICI,2021-03,+,+,-,Shareholder Returns
+LICI,2022-03,-,+,+,Distress - Asset Liquidation
+LICI,2023-03,+,-,-,Reinvestor
+LICI,2024-03,+,-,-,Reinvestor
+LODHA,2011-03,,,,
+LODHA,2012-03,,,,
+LODHA,2015-03,,,,
+LODHA,2016-03,+,-,+,Aggressive Expander
+LODHA,2017-03,+,-,-,Reinvestor
+LODHA,2018-03,+,-,+,Aggressive Expander
+LODHA,2019-03,-,-,+,Distress Signal
+LODHA,2020-03,+,+,-,Shareholder Returns
+LODHA,2021-03,+,+,-,Shareholder Returns
+LODHA,2022-03,+,+,-,Shareholder Returns
+LODHA,2023-03,+,+,-,Shareholder Returns
+LODHA,2024-03,+,-,+,Aggressive Expander
+LT,2013-03,-,-,+,Distress Signal
+LT,2014-03,-,-,+,Distress Signal
+LT,2015-03,-,-,+,Distress Signal
+LT,2016-03,-,-,+,Distress Signal
+LT,2017-03,+,-,+,Aggressive Expander
+LT,2018-03,-,+,+,Distress - Asset Liquidation
+LT,2019-03,-,-,+,Distress Signal
+LT,2020-03,+,-,+,Aggressive Expander
+LT,2021-03,+,-,-,Reinvestor
+LT,2022-03,+,-,-,Reinvestor
+LT,2023-03,+,-,-,Reinvestor
+LT,2024-03,+,+,-,Shareholder Returns
+LTIM,2013-03,+,-,-,Reinvestor
+LTIM,2014-03,+,+,-,Shareholder Returns
+LTIM,2015-03,+,-,-,Reinvestor
+LTIM,2016-03,+,-,-,Reinvestor
+LTIM,2017-03,+,-,-,Reinvestor
+LTIM,2018-03,+,-,-,Reinvestor
+LTIM,2019-03,+,-,-,Reinvestor
+LTIM,2020-03,+,-,-,Reinvestor
+LTIM,2021-03,+,-,-,Reinvestor
+LTIM,2022-03,+,-,-,Reinvestor
+LTIM,2023-03,+,-,-,Reinvestor
+LTIM,2024-03,+,-,-,Reinvestor
+M&M,2013-03,-,-,+,Distress Signal
+M&M,2014-03,-,-,+,Distress Signal
+M&M,2015-03,+,-,+,Aggressive Expander
+M&M,2016-03,+,-,+,Aggressive Expander
+M&M,2017-03,+,-,+,Aggressive Expander
+M&M,2018-03,+,-,+,Aggressive Expander
+M&M,2019-03,-,-,+,Distress Signal
+M&M,2020-03,-,-,+,Distress Signal
+M&M,2021-03,+,-,+,Aggressive Expander
+M&M,2022-03,+,-,-,Reinvestor
+M&M,2023-03,-,-,+,Distress Signal
+M&M,2024-03,-,-,+,Distress Signal
+MARUTI,2013-03,+,-,-,Reinvestor
+MARUTI,2014-03,+,-,-,Reinvestor
+MARUTI,2015-03,+,-,-,Reinvestor
+MARUTI,2016-03,+,-,-,Reinvestor
+MARUTI,2017-03,+,-,-,Reinvestor
+MARUTI,2018-03,+,-,-,Reinvestor
+MARUTI,2019-03,+,-,-,Reinvestor
+MARUTI,2020-03,+,-,-,Reinvestor
+MARUTI,2021-03,+,-,-,Reinvestor
+MARUTI,2022-03,+,-,-,Reinvestor
+MARUTI,2023-03,+,-,-,Reinvestor
+MARUTI,2024-03,+,-,-,Reinvestor
+MOTHERSON,2013-03,+,-,-,Reinvestor
+MOTHERSON,2014-03,+,-,-,Reinvestor
+MOTHERSON,2015-03,+,-,+,Aggressive Expander
+MOTHERSON,2016-03,+,-,-,Reinvestor
+MOTHERSON,2017-03,+,-,+,Aggressive Expander
+MOTHERSON,2018-03,+,-,-,Reinvestor
+MOTHERSON,2019-03,+,-,-,Reinvestor
+MOTHERSON,2020-03,+,-,-,Reinvestor
+MOTHERSON,2021-03,+,-,-,Reinvestor
+MOTHERSON,2022-03,+,-,-,Reinvestor
+MOTHERSON,2023-03,+,-,-,Reinvestor
+MOTHERSON,2024-03,+,-,+,Aggressive Expander
+NAUKRI,2013-03,+,-,-,Reinvestor
+NAUKRI,2014-03,+,-,+,Aggressive Expander
+NAUKRI,2015-03,+,-,+,Aggressive Expander
+NAUKRI,2016-03,+,-,-,Reinvestor
+NAUKRI,2017-03,+,-,-,Reinvestor
+NAUKRI,2018-03,+,-,-,Reinvestor
+NAUKRI,2019-03,+,-,-,Reinvestor
+NAUKRI,2020-03,+,+,-,Shareholder Returns
+NAUKRI,2021-03,+,-,+,Aggressive Expander
+NAUKRI,2022-03,+,-,+,Aggressive Expander
+NAUKRI,2023-03,+,-,+,Aggressive Expander
+NAUKRI,2024-03,+,-,+,Aggressive Expander
+NESTLEIND,2013-12,+,-,-,Reinvestor
+NESTLEIND,2014-12,+,-,-,Reinvestor
+NESTLEIND,2015-12,+,-,-,Reinvestor
+NESTLEIND,2016-12,+,-,-,Reinvestor
+NESTLEIND,2017-12,+,-,-,Reinvestor
+NESTLEIND,2018-12,+,-,-,Reinvestor
+NESTLEIND,2019-12,+,+,-,Shareholder Returns
+NESTLEIND,2020-12,+,-,-,Reinvestor
+NESTLEIND,2021-12,+,-,-,Reinvestor
+NESTLEIND,2022-12,+,-,-,Reinvestor
+NESTLEIND,2023-12,+,-,-,Reinvestor
+NESTLEIND,2024-03,+,-,-,Reinvestor
+NHPC,2013-03,+,-,-,Reinvestor
+NHPC,2014-03,+,-,-,Reinvestor
+NHPC,2015-03,+,-,-,Reinvestor
+NHPC,2016-03,+,-,-,Reinvestor
+NHPC,2017-03,+,-,-,Reinvestor
+NHPC,2018-03,+,-,-,Reinvestor
+NHPC,2019-03,+,-,-,Reinvestor
+NHPC,2020-03,+,-,+,Aggressive Expander
+NHPC,2021-03,+,-,-,Reinvestor
+NHPC,2022-03,+,-,-,Reinvestor
+NHPC,2023-03,+,-,-,Reinvestor
+NHPC,2024-03,+,-,-,Reinvestor
+NTPC,2013-03,+,-,+,Aggressive Expander
+NTPC,2014-03,+,-,-,Reinvestor
+NTPC,2015-03,+,-,-,Reinvestor
+NTPC,2016-03,+,-,-,Reinvestor
+NTPC,2017-03,+,-,+,Aggressive Expander
+NTPC,2018-03,+,-,+,Aggressive Expander
+NTPC,2019-03,+,-,+,Aggressive Expander
+NTPC,2020-03,+,-,+,Aggressive Expander
+NTPC,2021-03,+,-,-,Reinvestor
+NTPC,2022-03,+,-,-,Reinvestor
+NTPC,2023-03,+,-,-,Reinvestor
+NTPC,2024-03,+,-,-,Reinvestor
+ONGC,2013-03,+,-,-,Reinvestor
+ONGC,2014-03,+,-,+,Aggressive Expander
+ONGC,2015-03,+,-,-,Reinvestor
+ONGC,2016-03,+,-,-,Reinvestor
+ONGC,2017-03,+,-,-,Reinvestor
+ONGC,2018-03,+,-,+,Aggressive Expander
+ONGC,2019-03,+,-,-,Reinvestor
+ONGC,2020-03,+,-,-,Reinvestor
+ONGC,2021-03,+,-,-,Reinvestor
+ONGC,2022-03,+,-,-,Reinvestor
+ONGC,2023-03,+,-,-,Reinvestor
+ONGC,2024-03,+,-,-,Reinvestor
+PFC,2013-03,-,+,+,Distress - Asset Liquidation
+PFC,2014-03,-,+,+,Distress - Asset Liquidation
+PFC,2015-03,-,-,+,Distress Signal
+PFC,2016-03,-,-,+,Distress Signal
+PFC,2017-03,+,-,+,Aggressive Expander
+PFC,2018-03,-,+,+,Distress - Asset Liquidation
+PFC,2019-03,-,-,+,Distress Signal
+PFC,2020-03,-,-,+,Distress Signal
+PFC,2021-03,-,+,+,Distress - Asset Liquidation
+PFC,2022-03,+,-,-,Reinvestor
+PFC,2023-03,-,-,+,Distress Signal
+PFC,2024-03,-,-,+,Distress Signal
+PIDILITIND,2013-03,+,-,-,Reinvestor
+PIDILITIND,2014-03,+,-,-,Reinvestor
+PIDILITIND,2015-03,+,-,-,Reinvestor
+PIDILITIND,2016-03,+,-,-,Reinvestor
+PIDILITIND,2017-03,+,-,+,Aggressive Expander
+PIDILITIND,2018-03,+,+,-,Shareholder Returns
+PIDILITIND,2019-03,+,-,-,Reinvestor
+PIDILITIND,2020-03,+,+,-,Shareholder Returns
+PIDILITIND,2021-03,+,-,-,Reinvestor
+PIDILITIND,2022-03,+,-,-,Reinvestor
+PIDILITIND,2023-03,+,-,-,Reinvestor
+PIDILITIND,2024-03,+,-,-,Reinvestor
+PNB,2013-03,-,-,-,Cash Drain
+PNB,2014-03,+,-,+,Aggressive Expander
+PNB,2015-03,+,-,+,Aggressive Expander
+PNB,2016-03,+,-,+,Aggressive Expander
+PNB,2017-03,+,+,-,Shareholder Returns
+PNB,2018-03,-,+,+,Distress - Asset Liquidation
+PNB,2019-03,-,-,+,Distress Signal
+PNB,2020-03,-,-,+,Distress Signal
+PNB,2021-03,+,-,+,Aggressive Expander
+PNB,2022-03,+,-,+,Aggressive Expander
+PNB,2023-03,+,-,+,Aggressive Expander
+PNB,2024-03,-,-,+,Distress Signal
+POWERGRID,2013-03,+,-,+,Aggressive Expander
+POWERGRID,2014-03,+,-,+,Aggressive Expander
+POWERGRID,2015-03,+,-,+,Aggressive Expander
+POWERGRID,2016-03,+,-,+,Aggressive Expander
+POWERGRID,2017-03,+,-,+,Aggressive Expander
+POWERGRID,2018-03,+,-,+,Aggressive Expander
+POWERGRID,2019-03,+,-,-,Reinvestor
+POWERGRID,2020-03,+,-,-,Reinvestor
+POWERGRID,2021-03,+,-,-,Reinvestor
+POWERGRID,2022-03,+,+,-,Shareholder Returns
+POWERGRID,2023-03,+,-,-,Reinvestor
+POWERGRID,2024-03,+,-,-,Reinvestor
+RECLTD,2013-03,-,+,+,Distress - Asset Liquidation
+RECLTD,2014-03,-,+,+,Distress - Asset Liquidation
+RECLTD,2015-03,-,+,+,Distress - Asset Liquidation
+RECLTD,2016-03,-,-,+,Distress Signal
+RECLTD,2017-03,+,-,-,Reinvestor
+RECLTD,2018-03,-,+,+,Distress - Asset Liquidation
+RECLTD,2019-03,-,+,+,Distress - Asset Liquidation
+RECLTD,2020-03,-,+,+,Distress - Asset Liquidation
+RECLTD,2021-03,-,+,+,Distress - Asset Liquidation
+RECLTD,2022-03,-,-,+,Distress Signal
+RECLTD,2023-03,-,-,+,Distress Signal
+RECLTD,2024-03,-,-,+,Distress Signal
+RELIANCE,2013-03,+,-,+,Aggressive Expander
+RELIANCE,2014-03,+,-,+,Aggressive Expander
+RELIANCE,2015-03,+,-,+,Aggressive Expander
+RELIANCE,2016-03,+,-,-,Reinvestor
+RELIANCE,2017-03,+,-,+,Aggressive Expander
+RELIANCE,2018-03,+,-,-,Reinvestor
+RELIANCE,2019-03,+,-,+,Aggressive Expander
+RELIANCE,2020-03,+,-,-,Reinvestor
+RELIANCE,2021-03,+,-,+,Aggressive Expander
+RELIANCE,2022-03,+,-,+,Aggressive Expander
+RELIANCE,2023-03,+,-,+,Aggressive Expander
+RELIANCE,2024-03,+,-,-,Reinvestor
+SBILIFE,2013-03,+,-,-,Reinvestor
+SBILIFE,2014-03,+,-,-,Reinvestor
+SBILIFE,2015-03,+,-,-,Reinvestor
+SBILIFE,2016-03,+,-,-,Reinvestor
+SBILIFE,2017-03,+,-,-,Reinvestor
+SBILIFE,2018-03,+,-,-,Reinvestor
+SBILIFE,2019-03,+,-,-,Reinvestor
+SBILIFE,2020-03,+,-,-,Reinvestor
+SBILIFE,2021-03,+,-,+,Aggressive Expander
+SBILIFE,2022-03,+,-,-,Reinvestor
+SBILIFE,2023-03,+,-,-,Reinvestor
+SBILIFE,2024-03,+,-,-,Reinvestor
+SBIN,2013-03,+,-,-,Reinvestor
+SBIN,2014-03,+,-,+,Aggressive Expander
+SBIN,2015-03,+,-,-,Reinvestor
+SBIN,2016-03,+,-,+,Aggressive Expander
+SBIN,2017-03,+,-,-,Reinvestor
+SBIN,2018-03,-,+,+,Distress - Asset Liquidation
+SBIN,2019-03,+,+,+,Cash Accumulator
+SBIN,2020-03,+,-,+,Aggressive Expander
+SBIN,2021-03,+,-,+,Aggressive Expander
+SBIN,2022-03,+,-,-,Reinvestor
+SBIN,2023-03,-,-,+,Distress Signal
+SBIN,2024-03,+,-,-,Reinvestor
+SHREECEM,2013-06,+,-,-,Reinvestor
+SHREECEM,2014-06,+,-,-,Reinvestor
+SHREECEM,2015-06,+,-,-,Reinvestor
+SHREECEM,2016-03,+,-,-,Reinvestor
+SHREECEM,2017-03,+,-,-,Reinvestor
+SHREECEM,2018-03,+,-,+,Aggressive Expander
+SHREECEM,2019-03,+,-,-,Reinvestor
+SHREECEM,2020-03,+,-,+,Aggressive Expander
+SHREECEM,2021-03,+,-,-,Reinvestor
+SHREECEM,2022-03,+,-,-,Reinvestor
+SHREECEM,2023-03,+,-,-,Reinvestor
+SHREECEM,2024-03,+,-,-,Reinvestor
+SHRIRAMFIN,2013-03,-,-,+,Distress Signal
+SHRIRAMFIN,2014-03,-,-,+,Distress Signal
+SHRIRAMFIN,2015-03,-,-,+,Distress Signal
+SHRIRAMFIN,2016-03,-,-,+,Distress Signal
+SHRIRAMFIN,2017-03,-,-,+,Distress Signal
+SHRIRAMFIN,2018-03,-,+,+,Distress - Asset Liquidation
+SHRIRAMFIN,2019-03,-,-,+,Distress Signal
+SHRIRAMFIN,2020-03,-,-,+,Distress Signal
+SHRIRAMFIN,2021-03,-,-,+,Distress Signal
+SHRIRAMFIN,2022-03,-,-,+,Distress Signal
+SHRIRAMFIN,2023-03,-,+,+,Distress - Asset Liquidation
+SHRIRAMFIN,2024-03,-,-,+,Distress Signal
+SIEMENS,2011-09,+,+,-,Shareholder Returns
+SIEMENS,2014-09,+,+,-,Shareholder Returns
+SIEMENS,2015-09,+,+,-,Shareholder Returns
+SIEMENS,2016-09,+,+,-,Shareholder Returns
+SIEMENS,2017-09,+,+,-,Shareholder Returns
+SIEMENS,2018-09,+,-,-,Reinvestor
+SIEMENS,2019-09,+,-,-,Reinvestor
+SIEMENS,2020-09,+,+,-,Shareholder Returns
+SIEMENS,2021-09,+,-,-,Reinvestor
+SIEMENS,2022-09,+,-,-,Reinvestor
+SIEMENS,2023-09,+,-,-,Reinvestor
+SIEMENS,2024-09,+,-,-,Reinvestor
+SUNPHARMA,2013-03,+,-,-,Reinvestor
+SUNPHARMA,2014-03,+,-,+,Aggressive Expander
+SUNPHARMA,2015-03,+,-,-,Reinvestor
+SUNPHARMA,2016-03,+,-,-,Reinvestor
+SUNPHARMA,2017-03,+,-,-,Reinvestor
+SUNPHARMA,2018-03,+,-,-,Reinvestor
+SUNPHARMA,2019-03,+,-,-,Reinvestor
+SUNPHARMA,2020-03,+,-,-,Reinvestor
+SUNPHARMA,2021-03,+,+,-,Shareholder Returns
+SUNPHARMA,2022-03,+,-,-,Reinvestor
+SUNPHARMA,2023-03,+,-,+,Aggressive Expander
+SUNPHARMA,2024-03,+,-,-,Reinvestor
+TATACONSUM,2013-03,+,+,+,Cash Accumulator
+TATACONSUM,2014-03,+,-,-,Reinvestor
+TATACONSUM,2015-03,+,-,-,Reinvestor
+TATACONSUM,2016-03,+,+,-,Shareholder Returns
+TATACONSUM,2017-03,+,+,-,Shareholder Returns
+TATACONSUM,2018-03,+,-,-,Reinvestor
+TATACONSUM,2019-03,+,+,-,Shareholder Returns
+TATACONSUM,2020-03,+,-,-,Reinvestor
+TATACONSUM,2021-03,+,-,-,Reinvestor
+TATACONSUM,2022-03,+,-,-,Reinvestor
+TATACONSUM,2023-03,+,-,-,Reinvestor
+TATACONSUM,2024-03,+,-,+,Aggressive Expander
+TATAMOTORS,2013-03,+,-,-,Reinvestor
+TATAMOTORS,2014-03,+,-,-,Reinvestor
+TATAMOTORS,2015-03,+,-,+,Aggressive Expander
+TATAMOTORS,2016-03,+,-,-,Reinvestor
+TATAMOTORS,2017-03,+,-,+,Aggressive Expander
+TATAMOTORS,2018-03,+,-,+,Aggressive Expander
+TATAMOTORS,2019-03,+,-,+,Aggressive Expander
+TATAMOTORS,2020-03,+,-,+,Aggressive Expander
+TATAMOTORS,2021-03,+,-,+,Aggressive Expander
+TATAMOTORS,2022-03,+,-,-,Reinvestor
+TATAMOTORS,2023-03,+,-,-,Reinvestor
+TATAMOTORS,2024-03,+,-,-,Reinvestor
+TATAPOWER,2013-03,+,-,-,Reinvestor
+TATAPOWER,2014-03,+,-,-,Reinvestor
+TATAPOWER,2015-03,+,-,-,Reinvestor
+TATAPOWER,2016-03,+,-,-,Reinvestor
+TATAPOWER,2017-03,+,-,+,Aggressive Expander
+TATAPOWER,2018-03,+,-,-,Reinvestor
+TATAPOWER,2019-03,+,-,-,Reinvestor
+TATAPOWER,2020-03,+,-,-,Reinvestor
+TATAPOWER,2021-03,+,+,-,Shareholder Returns
+TATAPOWER,2022-03,+,-,-,Reinvestor
+TATAPOWER,2023-03,+,-,+,Aggressive Expander
+TATAPOWER,2024-03,+,-,-,Reinvestor
+TATASTEEL,2013-03,+,-,-,Reinvestor
+TATASTEEL,2014-03,+,-,+,Aggressive Expander
+TATASTEEL,2015-03,+,-,-,Reinvestor
+TATASTEEL,2016-03,+,-,-,Reinvestor
+TATASTEEL,2017-03,+,-,-,Reinvestor
+TATASTEEL,2018-03,+,-,+,Aggressive Expander
+TATASTEEL,2019-03,+,-,-,Reinvestor
+TATASTEEL,2020-03,+,-,-,Reinvestor
+TATASTEEL,2021-03,+,-,-,Reinvestor
+TATASTEEL,2022-03,+,-,-,Reinvestor
+TATASTEEL,2023-03,+,-,-,Reinvestor
+TATASTEEL,2024-03,+,-,-,Reinvestor
+TCS,2013-03,+,-,-,Reinvestor
+TCS,2014-03,+,-,-,Reinvestor
+TCS,2015-03,+,-,-,Reinvestor
+TCS,2016-03,+,-,-,Reinvestor
+TCS,2017-03,+,-,-,Reinvestor
+TCS,2018-03,+,+,-,Shareholder Returns
+TCS,2019-03,+,+,-,Shareholder Returns
+TCS,2020-03,+,+,-,Shareholder Returns
+TCS,2021-03,+,-,-,Reinvestor
+TCS,2022-03,+,-,-,Reinvestor
+TCS,2023-03,+,+,-,Shareholder Returns
+TCS,2024-03,+,+,-,Shareholder Returns
+TECHM,2013-03,+,-,+,Aggressive Expander
+TECHM,2014-03,+,+,-,Shareholder Returns
+TECHM,2015-03,+,-,-,Reinvestor
+TECHM,2016-03,+,-,-,Reinvestor
+TECHM,2017-03,+,-,-,Reinvestor
+TECHM,2018-03,+,-,-,Reinvestor
+TECHM,2019-03,+,-,-,Reinvestor
+TECHM,2020-03,+,+,-,Shareholder Returns
+TECHM,2021-03,+,-,-,Reinvestor
+TECHM,2022-03,+,+,-,Shareholder Returns
+TECHM,2023-03,+,-,-,Reinvestor
+TECHM,2024-03,+,-,-,Reinvestor
+TITAN,2013-03,+,-,-,Reinvestor
+TITAN,2014-03,-,-,+,Distress Signal
+TITAN,2015-03,+,-,-,Reinvestor
+TITAN,2016-03,+,-,-,Reinvestor
+TITAN,2017-03,+,-,-,Reinvestor
+TITAN,2018-03,-,+,-,Cash Burn - Divestment Funded
+TITAN,2019-03,+,-,-,Reinvestor
+TITAN,2020-03,-,+,-,Cash Burn - Divestment Funded
+TITAN,2021-03,+,-,-,Reinvestor
+TITAN,2022-03,-,+,-,Cash Burn - Divestment Funded
+TITAN,2023-03,+,-,+,Aggressive Expander
+TITAN,2024-03,+,-,-,Reinvestor
+TORNTPHARM,2013-03,+,-,+,Aggressive Expander
+TORNTPHARM,2014-03,+,-,+,Aggressive Expander
+TORNTPHARM,2015-03,+,-,+,Aggressive Expander
+TORNTPHARM,2016-03,+,-,-,Reinvestor
+TORNTPHARM,2017-03,+,-,-,Reinvestor
+TORNTPHARM,2018-03,+,-,+,Aggressive Expander
+TORNTPHARM,2019-03,+,-,-,Reinvestor
+TORNTPHARM,2020-03,+,+,-,Shareholder Returns
+TORNTPHARM,2021-03,+,-,-,Reinvestor
+TORNTPHARM,2022-03,+,-,-,Reinvestor
+TORNTPHARM,2023-03,+,-,+,Aggressive Expander
+TORNTPHARM,2024-03,+,-,-,Reinvestor
+TRENT,2013-03,+,-,+,Aggressive Expander
+TRENT,2014-03,-,-,-,Cash Drain
+TRENT,2015-03,-,-,+,Distress Signal
+TRENT,2016-03,+,-,-,Reinvestor
+TRENT,2017-03,+,-,-,Reinvestor
+TRENT,2018-03,+,-,-,Reinvestor
+TRENT,2019-03,+,-,+,Aggressive Expander
+TRENT,2020-03,+,-,+,Aggressive Expander
+TRENT,2021-03,+,+,-,Shareholder Returns
+TRENT,2022-03,+,+,-,Shareholder Returns
+TRENT,2023-03,+,-,-,Reinvestor
+TRENT,2024-03,+,-,-,Reinvestor
+TVSMOTOR,2013-03,+,-,-,Reinvestor
+TVSMOTOR,2014-03,+,-,-,Reinvestor
+TVSMOTOR,2015-03,+,-,+,Aggressive Expander
+TVSMOTOR,2016-03,+,-,-,Reinvestor
+TVSMOTOR,2017-03,+,-,-,Reinvestor
+TVSMOTOR,2018-03,+,-,+,Aggressive Expander
+TVSMOTOR,2019-03,-,-,+,Distress Signal
+TVSMOTOR,2020-03,+,-,+,Aggressive Expander
+TVSMOTOR,2021-03,+,-,+,Aggressive Expander
+TVSMOTOR,2022-03,-,-,+,Distress Signal
+TVSMOTOR,2023-03,-,-,+,Distress Signal
+TVSMOTOR,2024-03,-,-,+,Distress Signal

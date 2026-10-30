@@ -1,0 +1,11 @@
+capital_allocation.csv rows: 1073
+companies covered: 92 / 92
+rows with a pattern label: 1053  | unlabelled: 20
+companies with unlabelled years (no cash-flow data in source):
+  ADANIENSOL: 1 yrs (2014-03..2014-03)
+  ATGL: 7 yrs (2018-03..2024-03)
+  HAL: 4 yrs (2013-03..2016-03)
+  HDFCLIFE: 2 yrs (2013-03..2014-03)
+  IRFC: 3 yrs (2013-03..2015-03)
+  LODHA: 3 yrs (2011-03..2015-03)
+companies with ZERO labelled years: ATGL

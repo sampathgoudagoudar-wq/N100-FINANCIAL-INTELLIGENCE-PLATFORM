@@ -1,0 +1,11 @@
+check,passed
+pros_cons: >=1 pro and >=1 con for every company,True
+pros_cons: all confidences > 60,True
+pros_cons columns,True
+cashflow_intelligence.xlsx has 92 rows,True
+cashflow_intelligence.xlsx has all required columns,True
+tearsheets = 92 - skipped (1),True
+every tearsheet >= 30 KB,True
+"every tearsheet exactly 2 pages, no blank, no overflow (automated)",True
+sector PDFs generated (one per broad sector),True
+portfolio summary PDF has 92 pages,True
