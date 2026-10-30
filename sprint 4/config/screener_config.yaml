@@ -1,0 +1,132 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# Nifty 100 screener configuration  (analyst-editable — no code change needed)
+#
+# A filter is   { metric: <column>, op: ">" | ">=" | "<" | "<=" | "==", value: <number> }
+# or a flag     { metric: fcf_positive | de_declining, op: "is_true" }
+# Units: percentages are plain numbers (15 = 15 %), money is in Rs Crore.
+# ─────────────────────────────────────────────────────────────────────────────
+
+# The 15 metrics a custom screen may use.  Shorthand  <key>_min / <key>_max  in a
+# custom filter maps to  >=  /  <=  on the listed column.
+filterable_metrics:
+  roe:              {column: roe,            label: "ROE %",                  kind: min}
+  de:               {column: de,             label: "Debt / Equity",          kind: max}
+  fcf:              {column: fcf,            label: "Free Cash Flow (Cr)",    kind: min}
+  rev_cagr_5y:      {column: rev_cagr_5y,    label: "Revenue CAGR 5yr %",     kind: min}
+  pat_cagr_5y:      {column: pat_cagr_5y,    label: "PAT CAGR 5yr %",         kind: min}
+  opm:              {column: opm,            label: "Operating margin %",     kind: min}
+  pe:               {column: pe,             label: "P/E",                    kind: max}
+  pb:               {column: pb,             label: "P/B",                    kind: max}
+  div_yield:        {column: div_yield,      label: "Dividend yield %",       kind: min}
+  icr:              {column: icr,            label: "Interest coverage (x)",  kind: min}
+  market_cap:       {column: market_cap,     label: "Market cap (Cr)",        kind: min}
+  net_profit:       {column: net_profit,     label: "Net profit (Cr)",        kind: min}
+  eps_cagr:         {column: eps_cagr_5y,    label: "EPS CAGR 5yr %",         kind: min}
+  asset_turnover:   {column: asset_turnover, label: "Asset turnover (x)",     kind: min}
+  sales:            {column: sales,          label: "Sales (Cr)",             kind: min}
+
+# D/E is not meaningful for banks / NBFCs / insurers.
+#   exclude : companies in the sectors below are dropped whenever a D/E filter is active
+#   exempt  : they are kept and simply not tested on D/E
+de_financials_policy: exclude
+de_exempt_sectors: ["Financials"]
+
+# Debt-free companies have ICR = infinity, so they always pass an ICR minimum.
+icr_debt_free_is_infinite: true
+
+presets:
+  quality_compounder:
+    label: "Quality Compounder"
+    description: "High-return, low-debt, cash-generative compounders"
+    filters:
+      - {metric: roe,         op: ">", value: 15}
+      - {metric: de,          op: "<", value: 1.0}
+      - {metric: fcf,         op: ">", value: 0}
+      - {metric: rev_cagr_5y, op: ">", value: 10}
+  value_pick:
+    label: "Value Pick"
+    description: "Reasonably priced, moderately levered, dividend-paying"
+    filters:
+      - {metric: pe,        op: "<", value: 20}
+      - {metric: pb,        op: "<", value: 3.0}
+      - {metric: de,        op: "<", value: 2.0}
+      - {metric: div_yield, op: ">", value: 1}
+  growth_accelerator:
+    label: "Growth Accelerator"
+    description: "Fast profit and revenue compounding without heavy leverage"
+    filters:
+      - {metric: pat_cagr_5y, op: ">", value: 20}
+      - {metric: rev_cagr_5y, op: ">", value: 15}
+      - {metric: de,          op: "<", value: 2.0}
+  dividend_champion:
+    label: "Dividend Champion"
+    description: "Sustainable high dividend yield backed by free cash flow"
+    filters:
+      - {metric: div_yield,       op: ">", value: 2}
+      - {metric: dividend_payout, op: "<", value: 80}
+      - {metric: fcf,             op: ">", value: 0}
+  debt_free_blue_chip:
+    label: "Debt-Free Blue Chip"
+    description: "No borrowings, solid returns, large revenue base"
+    filters:
+      # Spec says D/E = 0.  In this dataset only 3 companies (LICI, SBILIFE, JIOFIN - all financials,
+      # which the D/E rule excludes) have exactly zero borrowings, so the preset returned 0 rows.
+      # "Debt-free" is therefore applied as D/E <= 0.05 (borrowings < 5 % of net worth).
+      # Set back to  {op: "==", value: 0}  to follow the spec literally.
+      - {metric: de,     op: "<=", value: 0.05}
+      - {metric: roe,    op: ">",  value: 12}
+      - {metric: sales,  op: ">",  value: 5000}
+  turnaround_watch:
+    label: "Turnaround Watch"
+    description: "Re-accelerating revenue, positive FCF, falling leverage"
+    filters:
+      - {metric: rev_cagr_3y,  op: ">", value: 10}
+      - {metric: fcf_positive, op: "is_true"}
+      - {metric: de_declining, op: "is_true"}
+
+# Composite quality score (0-100).  Sub-weights are shares of the 100 points.
+# 'winsorise' = clip at P10/P90 then min-max to 0-100;  'de_curve' / 'icr_curve' = piecewise bands.
+composite_score:
+  winsor_low_pct: 10
+  winsor_high_pct: 90
+  sector_min_companies: 5        # sectors smaller than this fall back to universe scaling
+  components:
+    # Profitability 35
+    - {metric: roe,         weight: 15, method: winsorise, dim: Profitability}
+    - {metric: roce,        weight: 10, method: winsorise, dim: Profitability}
+    - {metric: npm,         weight: 10, method: winsorise, dim: Profitability}
+    # Cash quality 30
+    - {metric: fcf_cagr_5y, weight: 15, method: winsorise, dim: Cash Quality}
+    - {metric: cfo_pat,     weight: 10, method: winsorise, dim: Cash Quality}
+    - {metric: fcf_positive,weight: 5,  method: flag,      dim: Cash Quality}
+    # Growth 20
+    - {metric: rev_cagr_5y, weight: 10, method: winsorise, dim: Growth}
+    - {metric: pat_cagr_5y, weight: 10, method: winsorise, dim: Growth}
+    # Leverage 15
+    - {metric: de,          weight: 10, method: de_curve,  dim: Leverage}
+    - {metric: icr,         weight: 5,  method: icr_curve, dim: Leverage}
+  # (D/E value -> score) and (ICR value -> score) bands, linearly interpolated
+  de_curve:  {x: [0, 0.5, 1, 2, 5],  y: [100, 85, 70, 50, 0]}
+  icr_curve: {x: [1.5, 3, 5, 10],    y: [0, 50, 75, 100]}
+
+# Colour-coding of the screener_output.xlsx KPI columns.  Columns that belong to the
+# preset's own filters use the preset threshold; the rest use these benchmarks
+# (project document, section 13).  op/value => green when true, red when false.
+benchmarks:
+  roe:             {op: ">", value: 15}
+  roce:            {op: ">", value: 15}
+  npm:             {op: ">", value: 10}
+  opm:             {op: ">", value: 15}
+  de:              {op: "<", value: 1.0}
+  icr:             {op: ">", value: 3}
+  fcf:             {op: ">", value: 0}
+  cfo_pat:         {op: ">", value: 1.0}
+  rev_cagr_5y:     {op: ">", value: 12}
+  rev_cagr_3y:     {op: ">", value: 10}
+  pat_cagr_5y:     {op: ">", value: 15}
+  eps_cagr_5y:     {op: ">", value: 12}
+  asset_turnover:  {op: ">", value: 1.0}
+  pe:              {op: "<", value: 25}
+  pb:              {op: "<", value: 3.0}
+  div_yield:       {op: ">", value: 2}
+  dividend_payout: {op: "<", value: 80}
