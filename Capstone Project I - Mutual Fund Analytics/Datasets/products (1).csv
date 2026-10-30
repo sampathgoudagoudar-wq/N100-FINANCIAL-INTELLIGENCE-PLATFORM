@@ -1,0 +1,35 @@
+product_id,product_name,category,price
+1,Wireless Mouse,Electronics,30.36
+2,Mechanical Keyboard,Electronics,449.68
+3,USB-C Hub,Electronics,377.52
+4,Bluetooth Speaker,Electronics,436.3
+5,Webcam HD,Electronics,417.45
+6,Noise Cancelling Headphones,Electronics,383.12
+7,Portable SSD,Electronics,81.51
+8,Smart Watch,Electronics,222.65
+9,Coffee Maker,Home & Kitchen,102.48
+10,Air Fryer,Home & Kitchen,185.26
+11,Blender,Home & Kitchen,33.92
+12,Non-stick Pan Set,Home & Kitchen,175.51
+13,Electric Kettle,Home & Kitchen,443.51
+14,Vacuum Cleaner,Home & Kitchen,125.22
+15,Toaster,Home & Kitchen,354.56
+16,Cutting Board Set,Home & Kitchen,209.11
+17,The Pragmatic Programmer,Books,194.97
+18,Atomic Habits,Books,431.13
+19,SQL for Beginners,Books,447.98
+20,Clean Code,Books,253.65
+21,Deep Work,Books,325.54
+22,The Lean Startup,Books,76.42
+23,Yoga Mat,Sports & Outdoors,139.14
+24,Dumbbell Set,Sports & Outdoors,436.17
+25,Running Shoes,Sports & Outdoors,264.0
+26,Water Bottle,Sports & Outdoors,247.65
+27,Camping Tent,Sports & Outdoors,338.61
+28,Bicycle Helmet,Sports & Outdoors,33.27
+29,Notebook Pack,Office Supplies,266.21
+30,Ergonomic Chair,Office Supplies,230.26
+31,Standing Desk,Office Supplies,384.9
+32,Desk Lamp,Office Supplies,77.59
+33,Whiteboard,Office Supplies,432.66
+34,Pen Set,Office Supplies,43.41
