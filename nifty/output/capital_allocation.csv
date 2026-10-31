@@ -1,0 +1,91 @@
+company_id,year,cfo,cfi,cff,pattern
+ONGC,2024,99263.0,-57203.0,-45650.0,Self-funded Reinvestor
+PFC,2024,-97820.0,-3409.0,101261.0,Externally Funded Builder
+BHEL,2024,-3713.0,1331.0,2656.0,Distress Funding
+PIDILITIND,2024,2724.0,-1769.0,-742.0,Self-funded Reinvestor
+BANKBARODA,2024,-6274.0,-1285.0,5476.0,Externally Funded Builder
+GAIL,2024,12586.0,-8226.0,-3457.0,Self-funded Reinvestor
+NTPC,2024,40785.0,-32141.0,-8246.0,Self-funded Reinvestor
+BOSCHLTD,2024,1253.0,283.0,-1452.0,Harvester
+BPCL,2024,35936.0,-10521.0,-25427.0,Self-funded Reinvestor
+MARUTI,2024,16801.0,-11865.0,-4062.0,Self-funded Reinvestor
+CANBK,2024,15046.0,-1750.0,-3834.0,Self-funded Reinvestor
+BHARTIARTL,2024,78898.0,-51089.0,-27778.0,Self-funded Reinvestor
+IRCTC,2024,882.0,-215.0,-404.0,Self-funded Reinvestor
+PNB,2024,-27939.0,-1506.0,3518.0,Externally Funded Builder
+HEROMOTOCO,2024,4923.0,-1828.0,-2717.0,Self-funded Reinvestor
+HAVELLS,2024,1953.0,-1618.0,-534.0,Self-funded Reinvestor
+HCLTECH,2024,22448.0,-6608.0,-15464.0,Self-funded Reinvestor
+HDFCLIFE,2024,10721.0,-13614.0,-403.0,Self-funded Reinvestor
+KOTAKBANK,2024,15685.0,-8919.0,15515.0,Leveraged Expander
+HDFCBANK,2024,19069.0,16600.0,-3983.0,Harvester
+JSWSTEEL,2024,12078.0,-14467.0,-5005.0,Self-funded Reinvestor
+IOC,2024,71099.0,-31464.0,-39385.0,Self-funded Reinvestor
+ADANIGREEN,2024,7713.0,-21060.0,13953.0,Leveraged Expander
+AXISBANK,2024,-5555.0,-9001.0,22341.0,Externally Funded Builder
+LT,2024,18266.0,2179.0,-25413.0,Harvester
+LODHA,2024,2512.0,-2947.0,951.0,Leveraged Expander
+DABUR,2024,2013.0,-971.0,-1161.0,Self-funded Reinvestor
+CIPLA,2024,4134.0,-2982.0,-1200.0,Self-funded Reinvestor
+COALINDIA,2024,18103.0,-4486.0,-13899.0,Self-funded Reinvestor
+LICI,2024,26122.0,-25269.0,-4427.0,Self-funded Reinvestor
+ASIANPAINT,2024,6104.0,-2548.0,-2982.0,Self-funded Reinvestor
+TCS,2024,44338.0,6091.0,-48536.0,Harvester
+TITAN,2024,1695.0,-189.0,-1329.0,Self-funded Reinvestor
+SIEMENS,2024,1670.0,-502.0,-523.0,Self-funded Reinvestor
+TATAMOTORS,2024,67915.0,-22782.0,-37006.0,Self-funded Reinvestor
+ADANIENT,2024,10312.0,-18767.0,8879.0,Leveraged Expander
+SHRIRAMFIN,2024,-31101.0,-258.0,27609.0,Externally Funded Builder
+APOLLOHOSP,2024,1920.0,-1537.0,-311.0,Self-funded Reinvestor
+BEL,2024,4659.0,-5924.0,-1475.0,Self-funded Reinvestor
+POWERGRID,2024,37290.0,-13114.0,-25903.0,Self-funded Reinvestor
+ICICIGI,2024,2407.0,-1921.0,-355.0,Self-funded Reinvestor
+GODREJCP,2024,2070.0,-3435.0,1406.0,Leveraged Expander
+GRASIM,2024,-10719.0,-23114.0,33908.0,Externally Funded Builder
+HINDALCO,2024,24056.0,-14267.0,-10817.0,Self-funded Reinvestor
+BAJAJHLDNG,2024,1941.0,-472.0,-1455.0,Self-funded Reinvestor
+SBILIFE,2024,29122.0,-31221.0,-227.0,Self-funded Reinvestor
+BAJFINANCE,2024,-72760.0,-7171.0,82415.0,Externally Funded Builder
+JIOFIN,2024,-678.0,1441.0,-753.0,Asset Liquidator
+DMART,2024,2746.0,-2468.0,-148.0,Self-funded Reinvestor
+DRREDDY,2024,4543.0,-4034.0,-376.0,Self-funded Reinvestor
+EICHERMOT,2024,3724.0,-2834.0,-844.0,Self-funded Reinvestor
+NESTLEIND,2024,4175.0,-1237.0,-3135.0,Self-funded Reinvestor
+RELIANCE,2024,158788.0,-113581.0,-16646.0,Self-funded Reinvestor
+HINDUNILVR,2024,15469.0,-5324.0,-10034.0,Self-funded Reinvestor
+NHPC,2024,6938.0,-5968.0,-581.0,Self-funded Reinvestor
+MOTHERSON,2024,7569.0,-6644.0,1281.0,Leveraged Expander
+M&M,2024,-5630.0,-5615.0,12281.0,Externally Funded Builder
+RECLTD,2024,-57723.0,-1831.0,59588.0,Externally Funded Builder
+IRFC,2024,7914.0,-8.0,-8046.0,Self-funded Reinvestor
+INDIGO,2024,21183.0,-11759.0,-9979.0,Self-funded Reinvestor
+INFY,2024,25210.0,-5093.0,-17504.0,Self-funded Reinvestor
+INDUSINDBK,2024,-16843.0,-625.0,-2242.0,Cash Depletion
+LTIM,2024,5670.0,-3918.0,-2269.0,Self-funded Reinvestor
+CHOLAFIN,2024,-35683.0,-2855.0,38471.0,Externally Funded Builder
+JSWENERGY,2024,6234.0,-8197.0,1675.0,Leveraged Expander
+BAJAJFINSV,2024,-68674.0,-10960.0,82709.0,Externally Funded Builder
+TATAPOWER,2024,12596.0,-9027.0,-4497.0,Self-funded Reinvestor
+ICICIBANK,2024,157284.0,-144737.0,13765.0,Leveraged Expander
+BAJAJ-AUTO,2024,6558.0,-72.0,-6167.0,Self-funded Reinvestor
+TECHM,2024,6376.0,-1318.0,-4767.0,Self-funded Reinvestor
+DIVISLAB,2024,1261.0,-269.0,-799.0,Self-funded Reinvestor
+DLF,2024,2539.0,-1529.0,177.0,Leveraged Expander
+BRITANNIA,2024,2573.0,477.0,-2830.0,Harvester
+NAUKRI,2024,702.0,-852.0,120.0,Leveraged Expander
+HAL,2024,8226.0,-6412.0,-1999.0,Self-funded Reinvestor
+SBIN,2024,21632.0,-3476.0,-9896.0,Self-funded Reinvestor
+ICICIPRULI,2024,-7315.0,7420.0,-88.0,Asset Liquidator
+SHREECEM,2024,3347.0,-1418.0,-1710.0,Self-funded Reinvestor
+TATACONSUM,2024,1937.0,-1911.0,256.0,Leveraged Expander
+SUNPHARMA,2024,12135.0,-763.0,-6710.0,Self-funded Reinvestor
+ITC,2024,17179.0,1563.0,-18551.0,Harvester
+TATASTEEL,2024,20301.0,-14253.0,-11097.0,Self-funded Reinvestor
+ADANIPORTS,2024,15018.0,-6768.0,-7800.0,Self-funded Reinvestor
+AMBUJACEM,2024,5646.0,-8941.0,5689.0,Leveraged Expander
+TORNTPHARM,2024,3266.0,-160.0,-2780.0,Self-funded Reinvestor
+JINDALSTEL,2024,6008.0,-8344.0,1381.0,Leveraged Expander
+TVSMOTOR,2024,-1253.0,-1001.0,2759.0,Externally Funded Builder
+TRENT,2024,1349.0,-508.0,-629.0,Self-funded Reinvestor
+ADANIPOWER,2024,14170.0,3481.0,-16864.0,Harvester
+ADANIENSOL,2024,6038.0,-4943.0,-543.0,Self-funded Reinvestor

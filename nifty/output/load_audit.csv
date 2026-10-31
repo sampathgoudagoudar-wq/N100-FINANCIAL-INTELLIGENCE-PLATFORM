@@ -1,0 +1,13 @@
+table,rule,rows,detail
+profitandloss,DQ-03 orphan tickers rejected,99,"ULTRACEMCO, UNIONBANK, UNITDSPR, VBL, VEDL, WIPRO, ZOMATO, ZYDUSLIFE"
+profitandloss,DQ-07 non-annual / unparseable period dropped,95,"Mar 2016 9m, Mar 2023 15, TTM"
+profitandloss,"DQ-02 duplicate (company, year) removed",12,
+balancesheet,DQ-03 orphan tickers rejected,85,"ULTRACEMCO, UNIONBANK, UNITDSPR, VEDL, WIPRO, ZOMATO, ZYDUSLIFE"
+balancesheet,DQ-07 non-annual / unparseable period dropped,0,
+balancesheet,interim Sep balance sheet dropped,85,
+balancesheet,"DQ-02 duplicate (company, year) removed",84,
+cashflow,DQ-03 orphan tickers rejected,96,"AGTL, ULTRACEMCO, UNIONBANK, UNITDSPR, VBL, VEDL, WIPRO, ZOMATO, ZYDUSLIFE"
+cashflow,DQ-07 non-annual / unparseable period dropped,0,
+cashflow,"DQ-02 duplicate (company, year) removed",35,
+balancesheet,DQ-10 negative fixed_assets -> 0,0,
+cashflow,cross-company duplicate series dropped,11,ABB duplicates ADANIENSOL

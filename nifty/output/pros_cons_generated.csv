@@ -1,0 +1,227 @@
+company_id,type,text
+ABB,pro,ROE above 20% for each of the last 3 years
+ABB,pro,Almost debt free (D/E below 0.1)
+ABB,pro,Profit has compounded at 21.7% a year over 5 years
+ABB,con,Expensive on earnings (P/E 76)
+ADANIENSOL,pro,Positive free cash flow with CFO above reported profit
+ADANIENSOL,pro,Profit has compounded at 16.4% a year over 5 years
+ADANIENSOL,pro,Strong revenue growth (17.9% CAGR over 5 years)
+ADANIENSOL,con,High leverage: D/E of 2.9
+ADANIENT,pro,Profit has compounded at 45.8% a year over 5 years
+ADANIENT,pro,Strong revenue growth (19.0% CAGR over 5 years)
+ADANIGREEN,pro,Strong revenue growth (35.0% CAGR over 5 years)
+ADANIGREEN,con,High leverage: D/E of 6.6
+ADANIPORTS,pro,Positive free cash flow with CFO above reported profit
+ADANIPORTS,pro,Strong revenue growth (19.6% CAGR over 5 years)
+ADANIPOWER,pro,ROE above 20% for each of the last 3 years
+ADANIPOWER,pro,Strong revenue growth (16.1% CAGR over 5 years)
+AMBUJACEM,pro,Almost debt free (D/E below 0.1)
+AMBUJACEM,con,Slow revenue growth (4.1% CAGR over 5 years)
+APOLLOHOSP,pro,Positive free cash flow with CFO above reported profit
+APOLLOHOSP,pro,Profit has compounded at 36.1% a year over 5 years
+ASIANPAINT,pro,ROE above 20% for each of the last 3 years
+ASIANPAINT,pro,Positive free cash flow with CFO above reported profit
+ASIANPAINT,pro,Profit has compounded at 20.3% a year over 5 years
+ASIANPAINT,pro,Balanced dividend payout of 58%
+ASIANPAINT,con,Expensive on earnings (P/E 73)
+ATGL,pro,Profit has compounded at 23.9% a year over 5 years
+ATGL,pro,Strong revenue growth (21.1% CAGR over 5 years)
+AXISBANK,pro,Profit has compounded at 39.7% a year over 5 years
+BAJAJ-AUTO,pro,ROE above 20% for each of the last 3 years
+BAJAJ-AUTO,pro,Almost debt free (D/E below 0.1)
+BAJAJFINSV,pro,ROE above 20% for each of the last 3 years
+BAJAJFINSV,pro,Profit has compounded at 23.7% a year over 5 years
+BAJAJFINSV,pro,Strong revenue growth (21.0% CAGR over 5 years)
+BAJAJHLDNG,pro,Profit has compounded at 19.3% a year over 5 years
+BAJAJHLDNG,pro,Strong revenue growth (31.6% CAGR over 5 years)
+BAJFINANCE,pro,Profit has compounded at 29.3% a year over 5 years
+BAJFINANCE,pro,Strong revenue growth (24.4% CAGR over 5 years)
+BAJFINANCE,con,Expensive on earnings (P/E 69)
+BANKBARODA,pro,Profit has compounded at 74.5% a year over 5 years
+BANKBARODA,pro,Strong revenue growth (17.5% CAGR over 5 years)
+BEL,pro,Profit has compounded at 16.1% a year over 5 years
+BEL,pro,Balanced dividend payout of 40%
+BHARTIARTL,pro,Positive free cash flow with CFO above reported profit
+BHARTIARTL,pro,Profit has compounded at 38.4% a year over 5 years
+BHARTIARTL,con,High leverage: D/E of 2.6
+BHARTIARTL,con,Expensive on earnings (P/E 64)
+BHEL,pro,Balanced dividend payout of 31%
+BHEL,con,Low return on equity (1.2%)
+BHEL,con,Slow revenue growth (-4.7% CAGR over 5 years)
+BOSCHLTD,pro,Almost debt free (D/E below 0.1)
+BOSCHLTD,pro,Balanced dividend payout of 44%
+BPCL,pro,Positive free cash flow with CFO above reported profit
+BPCL,pro,Profit has compounded at 25.8% a year over 5 years
+BPCL,pro,Balanced dividend payout of 33%
+BPCL,con,Expensive on earnings (P/E 68)
+BRITANNIA,pro,ROE above 20% for each of the last 3 years
+BRITANNIA,pro,Positive free cash flow with CFO above reported profit
+BRITANNIA,con,Expensive on earnings (P/E 64)
+CANBK,pro,Profit has compounded at 85.8% a year over 5 years
+CANBK,pro,Strong revenue growth (18.2% CAGR over 5 years)
+CHOLAFIN,pro,Profit has compounded at 23.4% a year over 5 years
+CHOLAFIN,pro,Strong revenue growth (21.9% CAGR over 5 years)
+CIPLA,pro,Almost debt free (D/E below 0.1)
+CIPLA,pro,Profit has compounded at 22.7% a year over 5 years
+COALINDIA,pro,ROE above 20% for each of the last 3 years
+COALINDIA,pro,Almost debt free (D/E below 0.1)
+COALINDIA,pro,Profit has compounded at 16.4% a year over 5 years
+COALINDIA,pro,Balanced dividend payout of 42%
+DABUR,pro,Positive free cash flow with CFO above reported profit
+DABUR,pro,Balanced dividend payout of 53%
+DIVISLAB,pro,Almost debt free (D/E below 0.1)
+DIVISLAB,pro,Balanced dividend payout of 50%
+DIVISLAB,con,Expensive on earnings (P/E 70)
+DLF,pro,Profit has compounded at 15.7% a year over 5 years
+DLF,pro,Balanced dividend payout of 45%
+DLF,con,Low return on equity (6.9%)
+DLF,con,Slow revenue growth (-5.1% CAGR over 5 years)
+DMART,pro,Almost debt free (D/E below 0.1)
+DMART,pro,Positive free cash flow with CFO above reported profit
+DMART,pro,Profit has compounded at 23.0% a year over 5 years
+DMART,pro,Strong revenue growth (20.5% CAGR over 5 years)
+DMART,con,Expensive on earnings (P/E 73)
+DRREDDY,pro,Almost debt free (D/E below 0.1)
+DRREDDY,pro,Profit has compounded at 23.4% a year over 5 years
+EICHERMOT,pro,Almost debt free (D/E below 0.1)
+EICHERMOT,pro,Balanced dividend payout of 35%
+GAIL,pro,Positive free cash flow with CFO above reported profit
+GAIL,pro,Balanced dividend payout of 37%
+GODREJCP,con,Low return on equity (-4.5%)
+GODREJCP,con,Loss-making in the latest year
+GRASIM,pro,Profit has compounded at 29.3% a year over 5 years
+GRASIM,con,Expensive on earnings (P/E 79)
+HAL,pro,Positive free cash flow with CFO above reported profit
+HAL,pro,Profit has compounded at 26.5% a year over 5 years
+HAL,pro,Balanced dividend payout of 31%
+HAL,con,Expensive on earnings (P/E 72)
+HAVELLS,pro,Almost debt free (D/E below 0.1)
+HAVELLS,pro,Positive free cash flow with CFO above reported profit
+HAVELLS,pro,Balanced dividend payout of 44%
+HCLTECH,pro,ROE above 20% for each of the last 3 years
+HCLTECH,pro,Almost debt free (D/E below 0.1)
+HCLTECH,pro,Positive free cash flow with CFO above reported profit
+HCLTECH,con,Expensive on earnings (P/E 64)
+HDFCBANK,pro,Profit has compounded at 23.9% a year over 5 years
+HDFCBANK,pro,Strong revenue growth (22.0% CAGR over 5 years)
+HDFCLIFE,pro,Strong revenue growth (21.2% CAGR over 5 years)
+HEROMOTOCO,pro,Almost debt free (D/E below 0.1)
+HEROMOTOCO,pro,Positive free cash flow with CFO above reported profit
+HEROMOTOCO,con,Slow revenue growth (2.2% CAGR over 5 years)
+HINDALCO,pro,Positive free cash flow with CFO above reported profit
+HINDUNILVR,pro,Almost debt free (D/E below 0.1)
+HINDUNILVR,pro,Positive free cash flow with CFO above reported profit
+ICICIBANK,pro,Profit has compounded at 51.9% a year over 5 years
+ICICIBANK,pro,Strong revenue growth (17.3% CAGR over 5 years)
+ICICIPRULI,pro,Strong revenue growth (16.8% CAGR over 5 years)
+INDIGO,pro,Almost debt free (D/E below 0.1)
+INDIGO,pro,Positive free cash flow with CFO above reported profit
+INDIGO,pro,Profit has compounded at 120.7% a year over 5 years
+INDIGO,pro,Strong revenue growth (19.3% CAGR over 5 years)
+INDIGO,con,Expensive on earnings (P/E 76)
+INDUSINDBK,pro,Profit has compounded at 22.1% a year over 5 years
+INDUSINDBK,pro,Strong revenue growth (15.5% CAGR over 5 years)
+INFY,pro,ROE above 20% for each of the last 3 years
+INFY,pro,Almost debt free (D/E below 0.1)
+IOC,pro,Positive free cash flow with CFO above reported profit
+IOC,pro,Profit has compounded at 20.1% a year over 5 years
+IOC,pro,Balanced dividend payout of 40%
+IRCTC,pro,ROE above 20% for each of the last 3 years
+IRCTC,pro,Almost debt free (D/E below 0.1)
+IRCTC,pro,Profit has compounded at 29.2% a year over 5 years
+IRCTC,pro,Strong revenue growth (18.0% CAGR over 5 years)
+IRCTC,pro,Balanced dividend payout of 47%
+IRCTC,con,Expensive on earnings (P/E 60)
+IRFC,pro,Profit has compounded at 23.2% a year over 5 years
+IRFC,pro,Strong revenue growth (19.1% CAGR over 5 years)
+IRFC,pro,Balanced dividend payout of 31%
+ITC,pro,ROE above 20% for each of the last 3 years
+ITC,pro,Almost debt free (D/E below 0.1)
+JINDALSTEL,con,Slow revenue growth (1.4% CAGR over 5 years)
+JINDALSTEL,con,Expensive on earnings (P/E 78)
+JIOFIN,con,Low return on equity (1.2%)
+JSWENERGY,pro,Profit has compounded at 20.3% a year over 5 years
+JSWENERGY,con,Slow revenue growth (4.7% CAGR over 5 years)
+JSWSTEEL,pro,Strong revenue growth (15.6% CAGR over 5 years)
+JSWSTEEL,con,Expensive on earnings (P/E 69)
+KOTAKBANK,pro,Profit has compounded at 20.4% a year over 5 years
+LICI,pro,ROE above 20% for each of the last 3 years
+LICI,pro,Profit has compounded at 73.2% a year over 5 years
+LODHA,con,Slow revenue growth (-2.8% CAGR over 5 years)
+LT,pro,Positive free cash flow with CFO above reported profit
+LT,pro,Balanced dividend payout of 36%
+LTIM,pro,ROE above 20% for each of the last 3 years
+LTIM,pro,Positive free cash flow with CFO above reported profit
+LTIM,pro,Profit has compounded at 24.8% a year over 5 years
+LTIM,pro,Strong revenue growth (30.3% CAGR over 5 years)
+LTIM,pro,Balanced dividend payout of 42%
+LTIM,con,Expensive on earnings (P/E 65)
+M&M,pro,Profit has compounded at 15.3% a year over 5 years
+MARUTI,pro,Almost debt free (D/E below 0.1)
+MARUTI,pro,Positive free cash flow with CFO above reported profit
+MOTHERSON,pro,Positive free cash flow with CFO above reported profit
+NAUKRI,pro,Almost debt free (D/E below 0.1)
+NAUKRI,pro,Strong revenue growth (17.1% CAGR over 5 years)
+NAUKRI,pro,Balanced dividend payout of 49%
+NAUKRI,con,Low return on equity (2.0%)
+NESTLEIND,pro,Positive free cash flow with CFO above reported profit
+NHPC,pro,Positive free cash flow with CFO above reported profit
+NHPC,pro,Balanced dividend payout of 53%
+NHPC,con,Slow revenue growth (1.4% CAGR over 5 years)
+NHPC,con,Expensive on earnings (P/E 71)
+NTPC,pro,Positive free cash flow with CFO above reported profit
+NTPC,pro,Balanced dividend payout of 36%
+ONGC,pro,Positive free cash flow with CFO above reported profit
+ONGC,pro,Balanced dividend payout of 31%
+PFC,pro,ROE above 20% for each of the last 3 years
+PFC,pro,Profit has compounded at 15.9% a year over 5 years
+PIDILITIND,pro,Almost debt free (D/E below 0.1)
+PIDILITIND,pro,Positive free cash flow with CFO above reported profit
+PIDILITIND,pro,Balanced dividend payout of 47%
+PNB,pro,Strong revenue growth (15.9% CAGR over 5 years)
+POWERGRID,pro,Positive free cash flow with CFO above reported profit
+POWERGRID,con,Expensive on earnings (P/E 64)
+RECLTD,pro,Profit has compounded at 19.8% a year over 5 years
+RECLTD,pro,Balanced dividend payout of 30%
+RELIANCE,pro,Positive free cash flow with CFO above reported profit
+SBILIFE,pro,Strong revenue growth (24.2% CAGR over 5 years)
+SBILIFE,con,Expensive on earnings (P/E 70)
+SBIN,pro,Profit has compounded at 83.4% a year over 5 years
+SHREECEM,pro,Almost debt free (D/E below 0.1)
+SHREECEM,pro,Positive free cash flow with CFO above reported profit
+SHRIRAMFIN,pro,Profit has compounded at 23.5% a year over 5 years
+SHRIRAMFIN,pro,Strong revenue growth (18.6% CAGR over 5 years)
+SHRIRAMFIN,con,Expensive on earnings (P/E 69)
+SIEMENS,pro,Almost debt free (D/E below 0.1)
+SIEMENS,pro,Profit has compounded at 19.9% a year over 5 years
+SUNPHARMA,pro,Almost debt free (D/E below 0.1)
+SUNPHARMA,pro,Positive free cash flow with CFO above reported profit
+SUNPHARMA,pro,Profit has compounded at 24.5% a year over 5 years
+SUNPHARMA,pro,Balanced dividend payout of 34%
+TATACONSUM,pro,Positive free cash flow with CFO above reported profit
+TATACONSUM,pro,Profit has compounded at 21.6% a year over 5 years
+TATACONSUM,pro,Strong revenue growth (16.0% CAGR over 5 years)
+TATACONSUM,con,Low return on equity (7.6%)
+TATAMOTORS,pro,Positive free cash flow with CFO above reported profit
+TATAMOTORS,con,Expensive on earnings (P/E 67)
+TATAPOWER,pro,Positive free cash flow with CFO above reported profit
+TATAPOWER,pro,Strong revenue growth (15.5% CAGR over 5 years)
+TATASTEEL,con,Low return on equity (-5.3%)
+TATASTEEL,con,Loss-making in the latest year
+TCS,pro,ROE above 20% for each of the last 3 years
+TCS,pro,Almost debt free (D/E below 0.1)
+TCS,pro,Balanced dividend payout of 58%
+TCS,con,Expensive on earnings (P/E 79)
+TECHM,pro,Almost debt free (D/E below 0.1)
+TECHM,pro,Positive free cash flow with CFO above reported profit
+TITAN,pro,ROE above 20% for each of the last 3 years
+TITAN,pro,Profit has compounded at 20.3% a year over 5 years
+TITAN,pro,Strong revenue growth (20.9% CAGR over 5 years)
+TORNTPHARM,pro,Positive free cash flow with CFO above reported profit
+TORNTPHARM,pro,Profit has compounded at 30.6% a year over 5 years
+TORNTPHARM,pro,Balanced dividend payout of 57%
+TRENT,pro,Profit has compounded at 73.1% a year over 5 years
+TRENT,pro,Strong revenue growth (36.3% CAGR over 5 years)
+TVSMOTOR,pro,Profit has compounded at 19.7% a year over 5 years
+TVSMOTOR,con,High leverage: D/E of 3.8
+TVSMOTOR,con,Negative free cash flow for 3 consecutive years
